@@ -35,15 +35,15 @@ http://127.0.0.1:6878/ace/getstream?id=3687a7780ab0568b01aef47f6b538f0396dde67c&
 http://127.0.0.1:6878/ace/getstream?id=82cbbdda640413a55e9dda3b2e9471cbeffa983a&pid=45362
 #EXTINF:-1 tvg-id="TV8>ace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Tv8_logo.png" tvg-name="TV8>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",TV8>ace
 http://127.0.0.1:6878/ace/getstream?id=4900019edaad4d975d4e258228f90b0c448b178a&pid=658
-#EXTINF:-1 tvg-name="360 laptop HD" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",360 laptop HD
+#EXTINF:-1 tvg-name="A TV HD" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",A TV HD
 http://127.0.0.1:6878/ace/getstream?infohash=4a10119e28e698bb157246c3d825628e383af209&pid=160
-#EXTINF:-1 tvg-name="360 Android HD" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",360 Android HD
+#EXTINF:-1 tvg-name="360 HD" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",360 HD
 http://127.0.0.1:6878/ace/getstream?infohash=8a11d6507d3e71bb4cd86ac91bcb84553689fdcb&pid=37
-#EXTINF:-1 tvg-name="Dream Turk" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",Dream Turk
+#EXTINF:-1 tvg-name="Dream Turk" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",Dream Turk
 http://127.0.0.1:6878/ace/getstream?infohash=d6d50afb373768257a51b56d921bebf29a5c39ff&pid=399
-#EXTINF:-1 tvg-name="NR1 Turk TV" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",NR1 Turk TV
+#EXTINF:-1 tvg-name="NR1 Turk TV" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",NR1 Turk TV
 http://127.0.0.1:6878/ace/getstream?infohash=8a674e917b45e0331a2e6b927b32f5a471c5d9a1&pid=800
-#EXTINF:-1 tvg-name="TRT Muzik" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",TRT Muzik
+#EXTINF:-1 tvg-name="TRT Muzik" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",TRT Muzik
 http://127.0.0.1:6878/ace/getstream?infohash=784a20f6c0b1d1890bc99677d3d95adfbd124f93&pid=1192
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/24_TV_logo.png" tvg-id="24TV>ace" tvg-name="24TV>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Haber",24TV>ace
 http://127.0.0.1:6878/ace/getstream?id=f8c9e145c6be5536243e86644afd8c8bda20ca62&pid=22216
@@ -223,8 +223,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 http://65.108.239.207/sinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="RİZETURK>NORMAL PLAYER" tvg-name="RİZETURK>NORMAL PLAYER" group-title="🔴 CANLI 🎬 SİNEMA",RİZETURK>
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="KASTAMONU TV>NORMAL PLAYER" tvg-name="KASTAMONU TV>NORMAL PLAYER" group-title="🔴 CANLI 🎬 SİNEMA",KASTAMONU TV>
-http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="Tv6>NORMAL PLAYER" tvg-name="Tv6>NORMAL PLAYER" group-title="🔴 CANLI 🎬 SİNEMA",Tv6>
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="TV6_alternanif>NORMAL PLAYER" tvg-name="TV6_alternanif>NORMAL PLAYER" group-title="🔴 CANLI 🎬 SİNEMA",TV6_alternanif>
@@ -271,35 +269,33 @@ https://linear-738.frequency.stream/mt/sportstribaltv/738/hls/master/playlist.m3
 https://shr.pn/UF3r
 #EXTINF:-1 tvg-id="ZOO_streamtv>NORMAL PLAYER" tvg-name="ZOO_streamtv>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",ZOO_streamtv>
 http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
-#EXTINF:-1 tvg-id="Explore.Canlı_23/12/2027>NORMAL PLAYER" tvg-name="Explore.Canlı_23/12/2027>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Explore.Canlı_23/12/2027>
-http://titan.tgrpanel.xyz:8080/live/Mutlu4867/BLbD5HHNDK/165444.ts
 #EXTINF:-1 tvg-id="MAKEDONYA HİSTORY>NORMAL PLAYER" tvg-name="MAKEDHİSTORY>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",MAKEDONYA HİSTORY>
 http://giganet.mk/hls/macdoc.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="DiyanetTV>NORMAL PLAYER" tvg-name="DiyanetTV>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",DiyanetTV>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="DiyanetTV>NORMAL PLAYER" tvg-name="DiyanetTV>NORMAL PLAYER" group-title="🕌 DİNİ",DiyanetTV>
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DostTV>NORMAL PLAYER" tvg-name="DostTV>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",DostTV>
+#EXTINF:-1 tvg-id="DostTV>NORMAL PLAYER" tvg-name="DostTV>NORMAL PLAYER" group-title="🕌 DİNİ",DostTV>
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="SemerkandTV>NORMAL PLAYER" tvg-name="SemerkandTV>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",SemerkandTV>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="SemerkandTV>NORMAL PLAYER" tvg-name="SemerkandTV>NORMAL PLAYER" group-title="🕌 DİNİ",SemerkandTV>
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="REHBER TV>NORMAL PLAYER" tvg-name="REHBER TV>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",REHBER TV>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="REHBER TV>NORMAL PLAYER" tvg-name="REHBER TV>NORMAL PLAYER" group-title="🕌 DİNİ",REHBER TV>
 https://cdn4.yayin.com.tr/rehbertv/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="REHBER TV>(2)>NORMAL PLAYER" tvg-name="REHBER TV>alternatif>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",REHBER TV>(2)>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="REHBER TV>(2)>NORMAL PLAYER" tvg-name="REHBER TV>alternatif>NORMAL PLAYER" group-title="🕌 DİNİ",REHBER TV>(2)>
 http://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MihrapTV>NORMAL PLAYER" tvg-name="MihrapTV" group-title="🔴 CANLI 🕌 DİNİ",MihrapTV>
+#EXTINF:-1 tvg-id="MihrapTV>NORMAL PLAYER" tvg-name="MihrapTV" group-title="🕌 DİNİ",MihrapTV>
 https://yayin30.haber100.com/live/mihraptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Asr-iSadetTV>NORMAL PLAYER" tvg-name="Asr-iSadetTV" group-title="🔴 CANLI 🕌 DİNİ",Asr-iSadetTV>
+#EXTINF:-1 tvg-id="Asr-iSadetTV>NORMAL PLAYER" tvg-name="Asr-iSadetTV" group-title="🕌 DİNİ",Asr-iSadetTV>
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Asr-iŞerifTV>NORMAL PLAYER" tvg-name="Asr-iŞerifTV" group-title="🔴 CANLI 🕌 DİNİ",Asr-iŞerifTV>
+#EXTINF:-1 tvg-id="Asr-iŞerifTV>NORMAL PLAYER" tvg-name="Asr-iŞerifTV" group-title="🕌 DİNİ",Asr-iŞerifTV>
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ONTV>NORMAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/NTV_logo.svg" tvg-name="ONTV>NORMAL" group-title="🔴 CANLI 🕌 DİNİ",ONTV>NORMAL
+#EXTINF:-1 tvg-id="ONTV>NORMAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/NTV_logo.svg" tvg-name="ONTV>NORMAL" group-title="🕌 DİNİ",ONTV>NORMAL
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="İkraTV>NORMAL PLAYER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-name="İkraTV>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",İkraTV>
+#EXTINF:-1 tvg-id="İkraTV>NORMAL PLAYER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-name="İkraTV>NORMAL PLAYER" group-title="🕌 DİNİ",İkraTV>
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-id="Al-ZAHRA>Ace" tvg-name="Al-ZAHRA>Ace" group-title="🔴 CANLI 🕌 DİNİ",Al-ZAHRA>Ace
+#EXTINF:-1 tvg-id="Al-ZAHRA>Ace" tvg-name="Al-ZAHRA>Ace" group-title="🕌 DİNİ",Al-ZAHRA>Ace
 http://127.0.0.1:6878/ace/getstream?id=3b751d11c113824918e77d9d45fbd123fd3cb9e9&pid=48366
-#EXTINF:-1 tvg-id="SHARJAH 2>NORMAL PLAYER" tvg-name="SHARJAH 2>NORMAL PLAYER" group-title="🔴 CANLI 🕌 DİNİ",SHARJAH 2>
+#EXTINF:-1 tvg-id="SHARJAH 2>NORMAL PLAYER" tvg-name="SHARJAH 2>NORMAL PLAYER" group-title="🕌 DİNİ",SHARJAH 2>
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="TRT Diyanet" group-title="🔴 CANLI 🕌 DİNİ",TRT Diyanet
+#EXTINF:-1 tvg-name="TRT Diyanet" group-title="🕌 DİNİ",TRT Diyanet
 http://127.0.0.1:6878/ace/getstream?infohash=a1ac47f8739f83a594d20f38a2cf9d7355fddfac&pid=1188
 #EXTINF:-1 tvg-id="ASTV>NORMAL PLAYER" tvg-name="ASTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",ASTV>
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
@@ -375,13 +371,13 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 http://217.174.225.146/legacyhls/ch001_720/index.m3u8
 #EXTINF:-1 tvg-id="ARKADAĞ TV>NORMAL PLAYER" tvg-name="ARKADAĞ TV>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",ARKADAĞ TV>
 http://217.174.225.146/legacyhls/ch000_720/index.m3u8
-#EXTINF:-1 tvg-id="AŞGABAT>NORMAL PLAYER" tvg-name="AŞGABAT>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",AŞGABAT>
+#EXTINF:-1 tvg-id="AŞGABAT>NORMAL PLAYER" tvg-name="AŞGABAT>NORMAL PLAYER" group-title="🔴 CANLI ⭐ ACESTREAM | Türk Dünyası",AŞGABAT>
 http://217.174.225.146/legacyhls/ch006_720/index.m3u8
-#EXTINF:-1 tvg-id="TÜRKMENİSTAN>NORMAL PLAYER" tvg-name="TÜRKMENİSTAN>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",TÜRKMENİSTAN>
+#EXTINF:-1 tvg-id="TÜRKMENİSTAN>NORMAL PLAYER" tvg-name="TÜRKMENİSTAN>NORMAL PLAYER" group-title="🔴 CANLI ⭐ ACESTREAM | Türk Dünyası",TÜRKMENİSTAN>
 http://217.174.225.146/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-id="MİLLY TV[uzb]>NORMAL PLAYER" tvg-name="MİLLY TV[uzb]>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",MİLLY TV[uzb]>
 http://serv1.milliy.tv/hls/index_480.m3u8
-#EXTINF:-1 tvg-id="MY5 TV[uzb]>NORMAL PLAYER" tvg-name="MY5 TV[uzb]>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",MY5 TV[uzb]>
+#EXTINF:-1 tvg-id="MY5 TV[uzb]>NORMAL PLAYER" tvg-name="MY5 TV[uzb]>NORMAL PLAYER" group-title="🔴 CANLI ⭐ ACESTREAM | Türk Dünyası",MY5 TV[uzb]>
 https://st.my5.media/hls/hd/index.m3u8
 #EXTINF:-1 tvg-id="UygurTV>NORMAL PLAYER" tvg-name="UygurTV>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",UygurTV>
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/playlist.m3u8
@@ -391,7 +387,7 @@ http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="HUZUR TV_tatar_alternatif>NORMAL PLAYER" tvg-name="HUZUR TV_tatar_alternatif>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",HUZUR TV_tatar_alternatif>
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Kurdi" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",TRT Kurdi
+#EXTINF:-1 tvg-name="TRT Kurdi" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",TRT Kurdi
 http://127.0.0.1:6878/ace/getstream?infohash=65c93d8a62bd9764e390c7b2fff78f828739b764&pid=1191
 #EXTINF:-1 tvg-id="SBS Arabic>AçılışKanalı" tvg-name="SBS Arabic" tvg-logo="https://image.pr.sbsod.com/37ad5c21-7dc4-55a9-bfab-0e6d1d8ebcb3" group-title="🔴 CANLI 🇦🇺 AUSTRALIA",SBS Arabic>AçılışKanalı
 https://i.mjh.nz/.r/sbs-sbs-pop-araby.m3u8
@@ -84520,3 +84516,1615 @@ https://pixeldrain.com/api/file/qeyiMavt?download
 https://pixeldrain.com/api/file/vrMeHr2N?download
 #EXTINF:-1 tvg-logo="https://winter-violet-eb52.efendikral54.workers.dev/img/jetfilmizle.net/uploads/films/1921/y/yumurcak-poster-medium.webp" tvg-id="YUMURCAK_CHARLİ" tvg-name="YUMURCAK_CHARLİ" group-title="Komedi",YUMURCAK_CHARLİ
 https://winter-violet-eb52.efendikral54.workers.dev/stream?film=yumurcak
+#EXTINF:-1 group-title="📡 AceStream World",Chile 5 FTA
+http://127.0.0.1:6878/ace/getstream?infohash=374eb6ec2a754c681565322a1516f26f808e6059&pid=299
+#EXTINF:-1 group-title="📡 AceStream World",El Pinguino (Punta Arenas)
+http://127.0.0.1:6878/ace/getstream?infohash=59f41dbd4dca0e4547408448eef1be3094129f69&pid=411
+#EXTINF:-1 group-title="📡 AceStream World",Holvoet TV Chile
+http://127.0.0.1:6878/ace/getstream?infohash=1be8e36666c5cbf5f48bdc347deec270c6d12e52&pid=552
+#EXTINF:-1 group-title="📡 AceStream World",MyTime movie network (Mexico)
+http://127.0.0.1:6878/ace/getstream?infohash=d50c0ac931cb2b03dcef858b90e2c6e0e2a79daf&pid=753
+#EXTINF:-1 group-title="📡 AceStream World",Pinguino multimedia Chile
+http://127.0.0.1:6878/ace/getstream?infohash=757a10d4371f6dad5f5ee9b3620c51cee08f0e87&pid=849
+#EXTINF:-1 group-title="📡 AceStream World",Thai PBS 3
+http://127.0.0.1:6878/ace/getstream?infohash=9fd1284b70c69c116cc65691c84f63311eec5b27&pid=1162
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/l/love-on-trial-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Aşk Yasağı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pRdRWpiM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pRdRWpiM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/e/elize-sombras-de-uma-mulher-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Elize: Bir Kadının Gölgeleri
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/V5omADyT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/V5omADyT?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/e/extraordinary-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Notaların Şifası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/jDXeS7Jp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/jDXeS7Jp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/s/shelter-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sığınak
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/umfEL5on
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/umfEL5on?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/i/is-god-is-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tanrı Derken
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/g3yMwPU8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/g3yMwPU8?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/a/azrail-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Azrail
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/w5xeeRLx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/w5xeeRLx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/h/heartstopper-sonsuza-dek-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Heartstopper: Sonsuza Dek
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/f4BpiiR1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/f4BpiiR1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/0-9/23000-hayat-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 23.000 Hayat
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/isM28BZb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/isM28BZb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/b/baby-its-cold-inside-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Baby, It's Cold Inside
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ShUJuJE6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ShUJuJE6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/o/orumcek-kadinin-opucugu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Örümcek Kadının Öpücüğü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MN9owKRD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MN9owKRD?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/t/the-drift-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Drift
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gGYrprVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gGYrprVS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/h/hit-man-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hit Man
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/fsFFCp1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/fsFFCp1e?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/b/boulevard-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Boulevard
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/njDDv63D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/njDDv63D?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/h/hayalet-sevgililerim-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hayalet Sevgililerim
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rVgYDZbg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/rVgYDZbg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/n/night-patrol-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gece Devriyesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Gtv4SX9E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Gtv4SX9E?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/n/na-ostrie-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Keskin Sınır
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LbGbQCvq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LbGbQCvq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/y/your-fault-london-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Culpa Tuya: Londra
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yzu9S4AS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/yzu9S4AS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/01/momo-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Momo
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9iFMwAQm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9iFMwAQm?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2004/y/yeni-yil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yeni Yıl
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/p5m5tyKF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/p5m5tyKF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/the-remnants-of-you-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Senden Kalanlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9C11c6zF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9C11c6zF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/o/olumcul-ucus-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ölümcül Uçuş
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/7NXjjB7z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/7NXjjB7z?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/y/yabanci-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yabancı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ELXXGkLr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ELXXGkLr?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/w/white-snow-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kar Kraliçesi: Elena Vyalbe
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/sCtaQ5Mo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/sCtaQ5Mo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/r/rahibe-teresa-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Rahibe Teresa
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bJfBRd5S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bJfBRd5S?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1993/s/stalingrad-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Stalingrad
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DeD7Marb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DeD7Marb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/k/kolory-zla-czern-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kötülüğün Rengi: Siyah
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4F1SDx9E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4F1SDx9E?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1995/d/dort-oda-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Dört Oda
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/a8CT9bpi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/a8CT9bpi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1994/g/gecenin-rengi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gecenin Rengi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/QZLtGXZF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/QZLtGXZF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/goze-goz-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Göze Göz
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2F8EvPFx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2F8EvPFx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/t/the-marked-woman-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İsimsiz Kadın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ifW69V8n
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ifW69V8n?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/a/adamin-iyiligi-icin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Adam'ın İyiliği İçin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MiSzRNeV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MiSzRNeV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/f/flower-shop-mystery-dearly-depotted-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Çiçekçi Dükkanı Gizemi: Öldüren Düğün
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Swquiiff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Swquiiff?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1997/d/dante-yanardagi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Dante Yanardağı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/H5d9Zagm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/H5d9Zagm?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/a/a-match-in-manhattan-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Manhattan'da Bir Aşk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ufzn1S3H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ufzn1S3H?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/good-boy-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Good Boy
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/g2WpzKdz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/g2WpzKdz?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/p/polar-opposites-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Zıt Kutuplar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZsdAx85j
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZsdAx85j?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/l/lost-in-tomorrow-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Lost in Tomorrow
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dbUZ74pM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dbUZ74pM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/s/system-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sistem
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FnFJDwRi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FnFJDwRi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/b/biker-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Biker
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/1xwt1mso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/1xwt1mso?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/g/golden-years-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Altın Yıllar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/D4zsnEPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/D4zsnEPV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/s/simmer-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bagajı Asla Açma
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/WKFLV7zb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/WKFLV7zb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/i/incir-agaclarinin-altinda-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İncir Ağaçlarının Altında
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/C5CkQ7Lc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/C5CkQ7Lc?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/p/project-hail-mary-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Project Hail Mary
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/kgimogco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/kgimogco?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/n/not-a-word-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Not a Word
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DVm4ZJcE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DVm4ZJcE?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/t/the-weapon-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Weapon
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qngDXGcK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qngDXGcK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/i/iyi-cocuk-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İyi Çocuk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CtkwaNn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CtkwaNn1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/birthright-outlaw-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Doğuştan Kanunsuz
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/SpSwh695
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/SpSwh695?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1991/b/bugsy-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bugsy
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Z6cRSoUr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Z6cRSoUr?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/c/carrot-cake-murder-a-hannah-swensen-mystery-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Carrot Cake Murder: A Hannah Swensen Mystery
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/YzGe7Grj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/YzGe7Grj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/t/the-calm-beyond-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Calm Beyond
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/eiDzk1Pz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/eiDzk1Pz?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/k/king-ivory-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", King Ivory
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/V3Ui3Lt7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/V3Ui3Lt7?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/giant-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Giant
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pWjmEK35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pWjmEK35?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2004/d/dehset-tuneli-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Dehşet Tüneli
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ywuuWv8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ywuuWv8c?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/a/anemone-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Anemon
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/XZecDKCe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/XZecDKCe?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/ballerina-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ballerina
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5pZQGrq9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5pZQGrq9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1996/f/falci-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Falcı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MHMeqETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MHMeqETV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/t/teknede-dehset-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Teknede Dehşet
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/UdWvmrGh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/UdWvmrGh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1963/e/eve-donene-kadar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Eve Dönene Kadar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/3EXHembf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/3EXHembf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/r/reminders-of-him-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Senden Geriye Kalan
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6CruPEi6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6CruPEi6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1952/s/sefahat-kurbani-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sefahat Kurbanı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wRKNgxBu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wRKNgxBu?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/f/fallen-angels-murder-club-friends-to-die-for-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Fallen Angels Murder Club: Friends to Die For
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PM8TT2Hz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PM8TT2Hz?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/f/fallen-angels-murder-club-heroes-and-felons-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Fallen Angels Murder Club: Heroes and Felons
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/tBBD1kxp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/tBBD1kxp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/s/sijjin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sijjin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wqCoeai9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wqCoeai9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/v/venganza-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Venganza
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/jkRfgtMi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/jkRfgtMi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/posters/undertone-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Undertone
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/i5hRhN6Y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/i5hRhN6Y?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/the-strangers-chapter-2-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ziyaretçiler: Bölüm 2
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Bzc5BWK4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Bzc5BWK4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/d/devils-triangle-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Devil's Triangle
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/r54ThG3j
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/r54ThG3j?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2001/a/acik-hat-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Açık Hat
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/m1EmW5e2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/m1EmW5e2?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/c/canavarciklar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Canavarcıklar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PGs5RCr4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PGs5RCr4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/k/kanli-sular-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kanlı Sular
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Qaw5Bgcq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Qaw5Bgcq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/n/ni-wa-wa-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ni wa wa
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5oxEg8Nx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5oxEg8Nx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/a/alpha-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Alpha
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/BxNmUZ2T
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/BxNmUZ2T?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/0-9/18-gul-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 18. Gül
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/N5HUbb3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/N5HUbb3e?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/l/le-roi-soleil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Le Roi Soleil
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/WoJvnkoq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/WoJvnkoq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1941/o/oldurunceye-kadar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Öldürünceye Kadar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FDp6x3nU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FDp6x3nU?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2000/0-9/28-gun-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 28 Gün
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/s5CSBBTd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/s5CSBBTd?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/t/the-banker-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Banker
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/urMbCV2R
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/urMbCV2R?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/g/genc-wertherin-acilari-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Genç Werther'in Acıları
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JzRbrUon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JzRbrUon?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1993/r/rudy-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Rudy
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/mZuMN4tB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/mZuMN4tB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/w/we-bury-the-dead-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", We Bury the Dead
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xLRx9oyJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xLRx9oyJ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1939/o/olmeyen-ask-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ölmeyen Aşk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/sgMaDTwg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/sgMaDTwg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/posters/sesimi-hisset-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sesimi Hisset
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JbEfYzaZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JbEfYzaZ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/t/the-beanie-bubble-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Beanie Bubble
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dcLtmhtg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dcLtmhtg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/p/pizza-movie-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Pizza Movie
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Xjbi4A4t
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Xjbi4A4t?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/r/raymond-ray-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Raymond & Ray
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/VCyyTscV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/VCyyTscV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/c/causeway-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Causeway
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dLCNwKZc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dLCNwKZc?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/strangers-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Strangers
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2KXYaURa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2KXYaURa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/e/el-ltimo-gigante-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", El último gigante
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qrEURaVB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qrEURaVB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/c/crime-101-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Crime 101
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pU5T3rJo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pU5T3rJo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/k/kung-fu-games-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kung Fu Oyunları
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/uGEAar56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/uGEAar56?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/k/kirmizi-hat-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kırmızı Hat
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dGVJjbJh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dGVJjbJh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/03/mike-ve-nick-ve-nick-ve-alice-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Mike & Nick & Nick & Alice
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dB7Hp33k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dB7Hp33k?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1999/s/storm-of-the-century-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yüzyılın Fırtınası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2XLUPKui
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2XLUPKui?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/c/cinque-secondi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cinque secondi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4EUkudc4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4EUkudc4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/0-9/53-domingos-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 53 domingos
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/a3f2a1D9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/a3f2a1D9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/spin-the-bottle-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Spin the Bottle
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HdtYYv1N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HdtYYv1N?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/p/popeye-the-slayer-man-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Popeye the Slayer Man
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/R6Xm9zXA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/R6Xm9zXA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/y/yapay-zeka-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yapay Zeka
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/7nF3Xh8r
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/7nF3Xh8r?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/z/zeta-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Zeta
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dpB2UrJD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dpB2UrJD?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/posters/guven-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Güven
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/g9hxS1JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/g9hxS1JR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/g/ghost-project-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ghost Project
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Vt2NEe1s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Vt2NEe1s?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/0-9/6-hours-away-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 6 Saat Uzakta
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/TvcH6Q52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/TvcH6Q52?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/saman-ayini-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Şaman Ayini
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4EUkudc4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4EUkudc4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/h/hallow-road-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hallow Road
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/NwX4cFBc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/NwX4cFBc?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/r/ruzgrin-kizi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Rüzgârın Kızı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/QysNtvpQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/QysNtvpQ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/j/jeunes-mres-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Genç Anneler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/hxAAVeWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/hxAAVeWS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/l/lurker-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Lurker
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2cAwe6i5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2cAwe6i5?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/kabus-gecesi-dirilis-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kabus Gecesi: Diriliş
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CdoiBsYx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CdoiBsYx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/r/rabbit-trap-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Rabbit Trap
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/auhfPDtt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/auhfPDtt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/a/art-of-eight-limbs-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sekiz Uzuv Sanatı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LsaH6mXh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LsaH6mXh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/p/park-arkadasim-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Park Arkadaşım
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/85wo4hNQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/85wo4hNQ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/a/anaganaga-oka-raju-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Krallar Gibi Yaşa
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EGrx47CX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EGrx47CX?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2001/t/tenenbaum-ailesi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tenenbaum Ailesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EpDNHu4W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EpDNHu4W?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/s/swan-song-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Swan Song
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9rNN5hiB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9rNN5hiB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/f/finch-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Finch
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HEf4APMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HEf4APMU?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/k/katil-makine-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Katil Makine
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/jcxqB6Ti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/jcxqB6Ti?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/s/subedaar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Subedaar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wUC8EHHs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wUC8EHHs?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/tehlikeli-hayvanlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tehlikeli Hayvanlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2b3VMUFU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2b3VMUFU?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/b/banliyo-cocuklari-3-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Banliyö Çocukları 3
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4G8CGS83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4G8CGS83?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/i/in-the-blink-of-an-eye-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Göz açıp kapayıncaya kadar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/1nftfoJa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/1nftfoJa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/sal-in-ja-ri-po-teu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bir Seri Katille Görüşme
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DhjUrY4Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DhjUrY4Z?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/a/accused-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Accused
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pdGTuCby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pdGTuCby?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/d/diary-of-a-wimpy-kid-the-last-straw-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Saftirik Greg'in Günlüğü - Türünün Son Örneği
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4kYTb8Et
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4kYTb8Et?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/golgedeki-yildiz-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gölgedeki Yıldız
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gaotZuvK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gaotZuvK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2011/l/loosies-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Loosies
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/C4EnRFBq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/C4EnRFBq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2012/d/de-marathon-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", De marathon
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Nd8oh4dx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Nd8oh4dx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/k/kucuk-don-kisotun-maceralari-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Küçük Don Kişot'un Maceraları
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/mgb76Miu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/mgb76Miu?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2003/b/bu-nasil-sarisin-2-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bu nasıl sarışın 2
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/RzJZMzth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/RzJZMzth?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2001/b/bu-nasil-sarisin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bu Nasıl Sarışın!
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/V9kRgbmf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/V9kRgbmf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/s/story-game-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Story Game
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FzUnVf1x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FzUnVf1x?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/h/heidi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Heidi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DqM14Ymy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DqM14Ymy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/a/adalar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Adalar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ShqVkQn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ShqVkQn3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/sorfcu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sörfçü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6EpjEWc4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6EpjEWc4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/p/pabanneu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Pabanneu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ScokF2Cw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ScokF2Cw?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/a/alevlerin-ortasinda-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Alevlerin Ortasında
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FSJCGTP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FSJCGTP5?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/kasirga-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kasırga
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ARHccT1i
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ARHccT1i?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/e/emmanuelle-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Emmanuelle
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/woWZYk3y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/woWZYk3y?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/s/sans-tanricasi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Şans Tanrıçası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4dodGmva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4dodGmva?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/l/love-me-love-me-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sev Beni Sev Beni
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/A5oatV1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/A5oatV1b?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/buzlar-kralicesi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Buzlar Kraliçesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/X55hZ56g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/X55hZ56g?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/p/predator-vahsi-topraklar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Predator: Vahşi Topraklar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/esSVEqY6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/esSVEqY6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/t/this-is-i-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İşte Ben
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JiQADWeE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JiQADWeE?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1990/y/yasak-iliskiler-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yasak İlişkiler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qF3KboNL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qF3KboNL?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/o/oneul-bam-segyeeseo-yi-sarangyi-sarajinda-haedo-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Aşkımız Bu Gece Kaybolsa Bile
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/SPwqhEHg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/SPwqhEHg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2010/c/circle-2010-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Çember
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CLE3R4Tq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CLE3R4Tq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/r/red-stone-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Red Stone
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/uErbG9ex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/uErbG9ex?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/p/pismanim-ama-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Pişmanım Ama
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6hdPtin9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6hdPtin9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1974/k/kuklaci-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kuklacı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/TiGCGTZh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/TiGCGTZh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/d/day-labor-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Day Labor
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/imXXKqHC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/imXXKqHC?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/serra-das-almas-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Serra das Almas
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9X2cYnWX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9X2cYnWX?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/c/cocukluguma-bir-mektup-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Çocukluğuma Bir Mektup
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yGue2ySu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/yGue2ySu?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/i/isik-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Işık
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xQKw4tRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xQKw4tRA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/savas-canavari-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Savaş Canavarı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JFUa8PE7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JFUa8PE7?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/gatao-big-brothers-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gatao: Big Brothers
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/BdTT2k7o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/BdTT2k7o?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/r/raat-akeli-hai-bansal-cinayetleri-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Raat Akeli Hai: Bansal Cinayetleri
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/BxWMkT1V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/BxWMkT1V?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/h/hurry-up-tomorrow-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hurry Up Tomorrow
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZcFNNn5o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZcFNNn5o?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/babami-ben-kacirdim-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Babamı Ben Kaçırdım
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/BP6QqoQ1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/BP6QqoQ1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/f/frankenstein-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Frankenstein
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/a5Vvbkjt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/a5Vvbkjt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/korku-seansi-4-son-ayin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Korku Seansı 4: Son Ayin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/axmXFEZK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/axmXFEZK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/bugunlerde-metro-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bugünlerde Metro
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Nj5U3ewT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Nj5U3ewT?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/o/oyun-bulusmasi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Oyun Buluşması
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/cgPmV1bP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/cgPmV1bP?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/t/the-mill-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Mill
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/hDRR9Bdq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/hDRR9Bdq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/a/ayi-kardesler-zaman-yolculugu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ayı Kardeşler: Zaman Yolculuğu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aZYahNp3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/aZYahNp3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/0-9/28-yil-sonra-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 28 Yıl Sonra
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5zErjwN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5zErjwN1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/0-9/27-gece-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 27 Gece
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gt7wHwVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gt7wHwVN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/t/the-summer-book-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Summer Book
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aATav6CP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/aATav6CP?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/a/asasiz-musa-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Asasiz Musa
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yuqDrk3F
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/yuqDrk3F?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/g/gercek-aci-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gerçek Acı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qbZaE6RG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qbZaE6RG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/superman-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Superman
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EE6FSXnP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EE6FSXnP?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/j/jurassic-world-yeniden-dogus-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Jurassic World: Yeniden Doğuş
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Z9Q6kJFv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Z9Q6kJFv?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/d/daha-iyi-bir-yarin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Daha İyi Bir Yarın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/YEVDgpp8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/YEVDgpp8?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/s/sevda-mecburi-istikamet-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sevda Mecburi İstikamet
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/oCDRe4J1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/oCDRe4J1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/a/annesinin-kuzusu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Annesinin Kuzusu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/739akmdt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/739akmdt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/k/katil-oyunu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Katil Oyunu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5fA9R4f4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5fA9R4f4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/d/dunyanin-en-guzel-kizi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Dünyanın En Güzel Kızı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ELUUPEuD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ELUUPEuD?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/kral-sakir-geri-donusum-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kral Sakir: Geri Dönüsüm
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bcZ9FFCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bcZ9FFCM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/m/merakli-adamin-10-gunu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Meraklı Adamın 10 Günü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/3Myy86KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/3Myy86KZ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/v/venom-son-dans-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Venom: Son Dans
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HQPLgZSd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HQPLgZSd?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2012/k/koruyucu-2012-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Koruyucu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EaETzLFu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EaETzLFu?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/bad-boys-ya-hep-ya-hic-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bad Boys: Ya Hep Ya Hiç
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/iAGvxiFo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/iAGvxiFo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/bars-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bars
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MNSnAnZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MNSnAnZN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1992/k/kadin-kokusu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kadın Kokusu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/F8HeLsvR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/F8HeLsvR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/baslik-parasi-uzmani-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Başlık Parası Uzmanı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ick923po
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ick923po?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/bob-marley-one-love-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bob Marley: One Love
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/8zphrwLo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/8zphrwLo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/son-resme-kadar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Son Resme Kadar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/cRHdUiPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/cRHdUiPC?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/karanliktan-cikis-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Karanlıktan Çıkış
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zzXErRW3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zzXErRW3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2008/k/kan-golu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kan Gölü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/47EAfn2h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/47EAfn2h?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/e/eyvah-babam-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Eyvah Babam
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6sY3mRQX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6sY3mRQX?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1958/a/ayri-masalar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ayrı masalar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rMavgE51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/rMavgE51?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/y/yangin-yeri-2024-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yangın Yeri
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/v2Si4pwx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/v2Si4pwx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/s/senin-adin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Senin Adın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bLjiiPKa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bLjiiPKa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1995/i/internet-te-av-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İnternet'te Av
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EfEjG1u4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EfEjG1u4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/o/olumcul-oyun-2023-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ölümcül Oyun
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qwAimQ4S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qwAimQ4S?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/s/sick-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sick
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZMEF2Vjn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZMEF2Vjn?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/e/evlat-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Evlat
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/oKQ2DDUH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/oKQ2DDUH?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/h/hayir-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hayır
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9fiLe13k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9fiLe13k?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/o/on-the-line-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", On the Line
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZVyGyL5C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZVyGyL5C?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1978/g/guneye-yolculuk-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Güneye Yolculuk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/NhCbvLFg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/NhCbvLFg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/m/muhbir-2019-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Muhbir
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZXGjMMSb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZXGjMMSb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/k/kursun-gecirmez-2019-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kurşun Geçirmez
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xVTzfxfy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xVTzfxfy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/f/findikkiran-ve-dort-diyar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Fındıkkıran ve Dört Diyar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ARmB5Z1Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ARmB5Z1Z?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/k/kotu-komsular-2-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kötü Komşular 2
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/WuPrZTZf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/WuPrZTZf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/u/uzun-kabus-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Uzun Kabus
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DPqMq6AS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DPqMq6AS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2007/h/her-cocuk-ozeldir-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Her Çocuk Özeldir
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/za94GuXj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/za94GuXj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/p/paterson-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Paterson
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/TLwnoFyF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/TLwnoFyF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/i/intikam-aftermath-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İntikam
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rzL7DXFa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/rzL7DXFa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/k/kong-kafatasi-adasi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kong: Kafatası Adası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/kyoeeWz9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/kyoeeWz9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2013/b/buyuk-kotu-kurtlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Büyük Kötü Kurtlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/cY5aMjJS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/cY5aMjJS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1996/m/matilda-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Matilda
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/kiXJLZXm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/kiXJLZXm?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2011/a/ayin-2011-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ayin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6kEvuXbf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6kEvuXbf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2013/t/these-final-hours-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", These Final Hours
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/7tEgPpkT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/7tEgPpkT?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2007/s/sublime-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sublime
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/RNQP1jM4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/RNQP1jM4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2012/p/para-caydanligi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Para Çaydanlığı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2uS2Y9yb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2uS2Y9yb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2006/a/ayrilik-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ayrılık
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DuYMyYa9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DuYMyYa9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2012/k/kanunsuzlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kanunsuzlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/RxSqphBV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/RxSqphBV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/y/yetenekli-eller-ben-carson-in-oykusu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yetenekli Eller: Ben Carson'ın Öyküsü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/K9tGNqw5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/K9tGNqw5?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1998/t/tutku-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tutku
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/K18o2jW3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/K18o2jW3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1981/h/hayran-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hayran
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/WBN7PNCF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/WBN7PNCF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/w/wicked-iyilik-ugruna-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Wicked: İyilik Uğruna
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Sx2ZQSLq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Sx2ZQSLq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/c/cheekati-lo-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cheekati Lo
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2PpfZgsG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2PpfZgsG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/x/xeno-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Xeno
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/RFqqSb7e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/RFqqSb7e?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/the-travellers-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kısa Ziyaret Uzun Hikaye
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ucMMYWov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ucMMYWov?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/y/yangin-yeri-cukur-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yangın Yeri: Çukur
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZWF8y8yt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZWF8y8yt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1988/01/ikizler-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İkizler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/GSG95qpj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/GSG95qpj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/a/amber-alert-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Amber Alert
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/eU8LCDKy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/eU8LCDKy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/y/yuvadan-uzakta-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yuvadan Uzakta
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/uGt95oav
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/uGt95oav?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/b/boon-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Boon
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/x8cxYKpZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/x8cxYKpZ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/b/badland-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Badland
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/mv7c2MiA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/mv7c2MiA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/t/the-rip-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Rip
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/m1DwGFCD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/m1DwGFCD?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/h/honey-dont-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tatlım, Yapma!
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2L5obvVL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2L5obvVL?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/birlikte-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Birlikte
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5JsBoZzR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5JsBoZzR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/t/the-bad-shepherd-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Bad Shepherd
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xGPTj5CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xGPTj5CA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1976/l/leadbelly-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Leadbelly
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/T3PmmUkM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/T3PmmUkM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/t/the-getback-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Getback
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/hrgqjNVr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/hrgqjNVr?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1993/p/piyano-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Piyano
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/74rop2cp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/74rop2cp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2026/t/tatilde-tanistigimiz-insanlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tatilde Tanıştığımız İnsanlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EAuihN1Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EAuihN1Z?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/w/wurijip-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The House of Us
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LEx1nYPq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LEx1nYPq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/guller-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Güller
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9DUChbcG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9DUChbcG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1993/t/tehlike-isareti-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tehlike İşareti
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/SnuHzToA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/SnuHzToA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1972/k/kara-yilan-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kara Yilan
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6BgRgfLW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6BgRgfLW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/tuzak-evi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tuzak Evi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rjvN6rZG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/rjvN6rZG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1983/s/sinif-1-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sınıf
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/1XMtTphq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/1XMtTphq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1971/s/sabata-donuyor-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sabata dönüyor
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4XSSx86Q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4XSSx86Q?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/d/der-tiger-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tank
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PhKfmgvQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PhKfmgvQ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2003/s/surusune-bereket-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sürüsüne bereket
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/cVgiypEp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/cVgiypEp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1983/a/all-the-right-moves-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Doğru Hamle
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LPYUPTxf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LPYUPTxf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/o/ozel-hayat-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Özel Hayat
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/TQV5LKgx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/TQV5LKgx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/the-astronaut-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Astronaut
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/uvuGdwAb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/uvuGdwAb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/g/gabbynin-hayal-evi-film-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gabby'nin Hayal Evi: Film
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/XEBXtDca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/XEBXtDca?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/d/dark-moon-rising-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Karanlık Ay Yükseliyor
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/oJory6aF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/oJory6aF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/siyah-telefon-2-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Siyah Telefon 2
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LB3BsipW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LB3BsipW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/b/bicaklar-cekildi-olu-adamin-uyanisi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bıçaklar Çekildi: Ölü Adamın Uyanışı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pgGtzUKJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pgGtzUKJ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/m/mononoke-the-movie-chapter-ii-the-ashes-of-rage-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Mononoke the Movie: Chapter II - The Ashes of Rage
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/nRGkA8vw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/nRGkA8vw?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/suncoast-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Suncoast
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/x5k3udDo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/x5k3udDo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1995/y/yargic-1995-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yargıç
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6qCu15mK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6qCu15mK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2006/u/ultraviolet-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ultraviolet
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/nfPPKw23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/nfPPKw23?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/e/elskling-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Loveable
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6RLCgah8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6RLCgah8?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/t/tron-ares-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tron: Ares
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/n3ZyiYDQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/n3ZyiYDQ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1982/t/tron-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Tron
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CeHU2Zvp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CeHU2Zvp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/f/freddy-nin-pizza-dukkaninda-bes-gece-2-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Freddy'nin Pizza Dükkanında Beş Gece 2
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5YCRdB7A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5YCRdB7A?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/kotuluk-icin-doganlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kötülük İçin Doğanlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CM5A7i5Q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CM5A7i5Q?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/m/meiyazhagan-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Meiyazhagan
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MP1194wD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MP1194wD?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/r/riverdale-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Riverdale
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/vsvTBSAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/vsvTBSAV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/c/cesur-panda-gorevimiz-afrika-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cesur Panda: Görevimiz Afrika
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/mfmqnTWa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/mfmqnTWa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/kara-dul-maje-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kara Dul Maje
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xhxQJEkR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xhxQJEkR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/a/am-i-ok-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Am I OK?
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gxmrc3nf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gxmrc3nf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2006/k/kayip-yasamlar-2006-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kayıp Yaşamlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ukuNS92Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ukuNS92Z?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/d/detective-knight-independence-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Detective Knight: Independence
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ttaFRkHN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ttaFRkHN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/sikandar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sikandar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PzHmyHKB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PzHmyHKB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/m/mission-impossible-son-hesaplasma-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Mission: Impossible - Son Hesaplaşma
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/VjmR24iX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/VjmR24iX?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/kurt-adam-2025-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kurt Adam
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Edszwjsv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Edszwjsv?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2002/b/beyaz-zakkum-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Beyaz zakkum
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yqUmxUKF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/yqUmxUKF?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2005/r/rock-the-paint-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Rock the Paint
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LzNEk6Ax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LzNEk6Ax?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/k/kotu-etki-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kötü Etki
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/mvZi86sR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/mvZi86sR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/kuralsizlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kuralsızlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/v7i5yM77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/v7i5yM77?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/0-9/1883-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 1883
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wnRwPXdN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wnRwPXdN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/j/jack-reacher-asla-geri-donme-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Jack Reacher: Asla Geri Dönme
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZTNf4yWg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZTNf4yWg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/c/cruella-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cruella
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/F751fe8i
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/F751fe8i?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/babygirl-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Babygirl
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/nd6Y3YYS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/nd6Y3YYS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/m/malefiz-kotulugun-gucu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Malefiz: Kötülüğün Gücü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/byznVSPu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/byznVSPu?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/s/suc-takimi-2-pantera-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Suç Takımı 2: Pantera
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/xw15iNd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/xw15iNd1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/h/hizli-tren-dehseti-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Hızlı Tren Dehşeti
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PcDwZ3p6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PcDwZ3p6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/s/stonehearst-asylum-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Stonehearst Asylum
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/XFaACVXJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/XFaACVXJ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/a/ask-pesinde-bir-yil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Aşk Peşinde Bir Yıl
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/w8sDyJxz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/w8sDyJxz?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/l/leziz-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Leziz
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JSfV74oe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JSfV74oe?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2025/m/merkez-36-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Merkez 36
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/kEDwWVZR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/kEDwWVZR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/t/the-brutalist-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Brutalist
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/j3bhzYAd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/j3bhzYAd?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/bebekler-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bebekler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bSDLocx5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bSDLocx5?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/a/asansor-oyunu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Asansör Oyunu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/PZAn2pur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/PZAn2pur?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/sapkin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sapkın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FiKZ2xGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FiKZ2xGP?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1997/g/gangsterler-diyari-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gangsterler Diyarı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/T36XLXNg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/T36XLXNg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/g/gunun-kadini-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Günün Kadını
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HXEg7WBt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HXEg7WBt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1979/k/kusku-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kuşku
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/8X2FaYah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/8X2FaYah?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/g/gozculer-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Gözcüler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/auZ2w4Y1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/auZ2w4Y1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/s/saldiri-2024-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Saldırı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/j5hKfu4t
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/j5hKfu4t?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/c/cinayete-davet-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cinayete Davet
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EYy7NQnA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EYy7NQnA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/c/castle-rock-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Castle Rock
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gJdG2i6o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gJdG2i6o?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/b/brave-new-world-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Brave New World
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/UiNrxJjH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/UiNrxJjH?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1999/g/generalin-kizi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Generalin kızı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/iDpQBDSi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/iDpQBDSi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1998/a/aslan-kral-2-simba-nin-onuru-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Aslan Kral 2: Simba'nın Onuru
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/fr7nKtLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/fr7nKtLE?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/f/first-we-take-brooklyn-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", First We Take Brooklyn
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2DJD1g7r
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2DJD1g7r?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/b/bir-aile-meselesi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bir Aile Meselesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/B5F6K8Jt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/B5F6K8Jt?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/e/eileen-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Eileen
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/VmLtZivH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/VmLtZivH?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/y/yakin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yakın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9pDERkNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9pDERkNC?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1967/m/milyoner-serseri-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Milyoner Serseri
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ZswnFMWG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ZswnFMWG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/bataklik-2023-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bataklık
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/T9pTsYjh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/T9pTsYjh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/bir-dususun-anatomisi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bir Düşüşün Anatomisi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/hK83MbyX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/hK83MbyX?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/kucuk-allen-ve-galaksi-yolcusu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Küçük Allen ve Galaksi Yolcusu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/iS2qNq4X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/iS2qNq4X?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/karabasan-2022-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Karabasan
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/KinirUY4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/KinirUY4?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/b/buyuk-kucuk-yalanlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Büyük Küçük Yalanlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/koAbpEUp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/koAbpEUp?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/b/beyond-2016-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Beyond
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/KXVn4BHo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/KXVn4BHo?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2013/b/bates-motel-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bates Motel
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/A9qXkEx9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/A9qXkEx9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/f/freddy-nin-pizza-dukkaninda-bes-gece-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Freddy'nin Pizza Dükkanında Beş Gece
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/q4oTRyEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/q4oTRyEW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/bitmeyen-sinav-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bitmeyen Sınav
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CKuxERAk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CKuxERAk?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/a/anne-with-an-e-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Anne with an E
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/hU64i9S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/hU64i9S1?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/a/amerikan-tanrilari-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Amerikan Tanrıları
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/626bLvfb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/626bLvfb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1996/d/dalgalari-asmak-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Dalgaları Aşmak
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/V58FqPhY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/V58FqPhY?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2015/q/quantico-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Quantico
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gaKCzYWQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gaKCzYWQ?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1999/g/gunese-yolculuk-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Güneşe Yolculuk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/w4zRQmfK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/w4zRQmfK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/c/chilling-adventures-of-sabrina-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Chilling Adventures of Sabrina
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zT1XpqWY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zT1XpqWY?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/t/the-fisherman-s-daughter-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Fisherman's Daughter
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/qPzUPyCS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/qPzUPyCS?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/k/katla-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Katla
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6GGPv647
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6GGPv647?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/l/locke-ve-key-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Locke & Key
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/W2xaJEMW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/W2xaJEMW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/c/cha-wu-ci-xin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Cha wu ci xin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/AVAQ1rDB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/AVAQ1rDB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/r/ren-altini-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ren Altını
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/iZJ6j7iK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/iZJ6j7iK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2010/a/and-soon-the-darkness-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", And Soon the Darkness
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/oKs16PWw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/oKs16PWw?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/c/calls-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Calls
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Pndcbc3n
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Pndcbc3n?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/s/sirlar-kitabi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sırlar Kitabı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/LX2ATbyH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/LX2ATbyH?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/b/black-bird-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Black Bird
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ff5mRzeU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ff5mRzeU?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/y/you-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", You
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4Ss5DJuY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4Ss5DJuY?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/0-9/57-saniye-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", 57 Saniye
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/eBpeBQct
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/eBpeBQct?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2008/a/ayi-winnie-kaplan-ve-arkadaslik-mevsimi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ayı Winnie: Kaplan ve Arkadaşlık Mevsimi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/jQHri6Eh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/jQHri6Eh?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1998/b/bitirim-ikili-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bitirim İkili
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/SLKVW6sA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/SLKVW6sA?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1998/a/alti-gun-yedi-gece-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Altı gün yedi gece
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zCKXD732
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zCKXD732?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/d/davetsiz-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Davetsiz
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/s3WBbBBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/s3WBbBBE?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/y/yukari-bak-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yukarı Bak
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ifzWtPyW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ifzWtPyW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2010/a/altin-ve-bakir-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Altın ve Bakır
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/3zTMzKdM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/3zTMzKdM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2013/k/karanlik-cinayetler-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Karanlık Cinayetler
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/SDmW4oqG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/SDmW4oqG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2012/w/would-you-rather-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Would You Rather
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/pGCXBJdj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/pGCXBJdj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/b/bas-belasi-2014-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Baş Belası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HmjbXg81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HmjbXg81?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/s/sherlock-holmes-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sherlock Holmes
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/J2rHXaP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/J2rHXaP2?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2005/m/madagaskar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Madagaskar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aFvnbrkM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/aFvnbrkM?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1995/o/oyuncak-hikayesi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Oyuncak Hikayesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JcEDCWR6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JcEDCWR6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1995/c/casino-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Casino
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bKSwmR7g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bKSwmR7g?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2006/s/sansli-slevin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Şanslı Slevin
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HkfCrt7S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/HkfCrt7S?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2004/o/olum-yolu-2004-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ölüm Yolu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zUy9vDDj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zUy9vDDj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2015/g/goosebumps-canavarlar-firarda-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Goosebumps: Canavarlar Firarda
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wpNxwdZi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wpNxwdZi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2003/s/sinbad-yedi-denizler-efsanesi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sinbad: Yedi Denizler Efsanesi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ERdbazTc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ERdbazTc?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2008/b/benimle-evlenir-misin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Benimle Evlenir Misin?
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wRAHALt3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wRAHALt3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/s/shepherds-and-butchers-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Shepherds and Butchers
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yRta5jeq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/yRta5jeq?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/m/muttefik-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Müttefik
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CRW48M6S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CRW48M6S?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/j/jeepers-creepers-3-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Jeepers Creepers 3
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/WbpsH9zB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/WbpsH9zB?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/l/lego-ninjago-filmi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Lego Ninjago Filmi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zE3C8phR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zE3C8phR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/s/saplanti-2018-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Saplantı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CSYTo7Hy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CSYTo7Hy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/z/ziyaretciler-gece-avi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Ziyaretçiler: Gece Avı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/tv5a6Scr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/tv5a6Scr?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/b/belali-tanik-2017-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Belalı Tanık
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/p1VSPcbY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/p1VSPcbY?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/k/keep-watching-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Keep Watching
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zT8oBC17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zT8oBC17?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/o/oyku-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Öykü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/5qBpVcG5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/5qBpVcG5?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/u/uc-tepe-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Üç Tepe
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ijB3qLX8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ijB3qLX8?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/s/sevimli-dostlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sevimli Dostlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/chzJr12p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/chzJr12p?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/d/duzenbazlar-2019-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Düzenbazlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/gUAkbNXK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/gUAkbNXK?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/r/raat-akeli-hai-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Raat Akeli Hai
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/8S1xZqtY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/8S1xZqtY?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/m/mutluluk-2021-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Mutluluk
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/42Ltur4r
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/42Ltur4r?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/r/red-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Red
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EbnvGPcT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/EbnvGPcT?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/k/kucuk-dedektif-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Küçük Dedektif
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ynRzjFoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ynRzjFoy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2020/c/crood-lar-2-yeni-bir-cag-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Crood'lar 2: Yeni Bir Çağ
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/MR17EKEy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/MR17EKEy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/z/zihin-gezgini-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Zihin Gezgini
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/oJHZZX3m
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/oJHZZX3m?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/e/eternals-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Eternals
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/y5fA1MeN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/y5fA1MeN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/f/fransiz-postasi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Fransız Postası
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/J39pHQQi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/J39pHQQi?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2017/d/dogmamis-2017-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Doğmamış
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/XWgv8VNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/XWgv8VNN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/m/minyonlar-2-gru-nun-yukselisi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Minyonlar 2: Gru'nun Yükselişi
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/z1D9DRax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/z1D9DRax?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2002/k/konus-onunla-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Konuş onunla
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4a3EUqTx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4a3EUqTx?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/s/sivil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sivil
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/DV74nEep
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/DV74nEep?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/b/bak-nasil-da-kaciyorlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Bak Nasıl da Kaçıyorlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/UGh2PjWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/UGh2PjWE?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2009/k/koralin-ve-gizli-dunya-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Koralin ve Gizli Dünya
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/dvVySGjC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/dvVySGjC?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/s/sharper-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sharper
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/bPqXj8zm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/bPqXj8zm?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/r/reclusion-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Reclusion
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/4uwguyMn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/4uwguyMn?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/b/beni-tarzana-ya-gotur-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Beni Tarzana'ya Götür
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/JDujTje3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/JDujTje3?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2019/d/daniel-gercek-degil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Daniel Gerçek Değil
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/F7ywHYJr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/F7ywHYJr?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/k/kara-kapli-defter-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Kara Kaplı Defter
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6GyXubNR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6GyXubNR?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/k/karanlik-ruhlar-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Karanlık Ruhlar
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/zFMRqmQb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/zFMRqmQb?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/s/seker-henry-nin-inanilmaz-oykusu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Şeker Henry'nin İnanılmaz Öyküsü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Srt1fih6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/Srt1fih6?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/b/birth-rebirth-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Birth/Rebirth
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/FwzLDpmj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/FwzLDpmj?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/a/awareness-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Awareness
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6nhXrpWf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6nhXrpWf?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/c/cocuk-ve-balikcil-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Çocuk ve Balıkçıl
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/6YSDgNpG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/6YSDgNpG?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/n/nuovo-olimpo-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Nuovo Olimpo
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/r7SpjntV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/r7SpjntV?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2011/p/paul-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Paul
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/udvVdbsa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/udvVdbsa?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1999/i/icgudu-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", İçgüdü
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/rQypHowL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/rQypHowL?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2023/i/it-s-a-wonderful-knife-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", It's a Wonderful Knife
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/v1U4gw76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/v1U4gw76?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/1998/a/arabulucu-1998-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Arabulucu
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/CRC9zPmn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/CRC9zPmn?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/s/stella-est-amoureuse-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Stella est amoureuse
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/XcR5H6wN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/XcR5H6wN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2022/u/umudu-yakalamak-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Umudu Yakalamak
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/9W5tUPFW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/9W5tUPFW?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2018/y/yalanlar-sehri-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Yalanlar Şehri
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/uvkFRZPy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/uvkFRZPy?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2021/s/sekizinci-gece-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Sekizinci Gece
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/TvqP7AUg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/TvqP7AUg?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2016/c/cilgin-baskin-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Çılgın Baskın
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2Yq9Aqco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/2Yq9Aqco?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/l/lucy-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Lucy
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/RfLKik2Q
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/RfLKik2Q?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2006/p/pembe-panter-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Pembe panter
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/NhhAAoD9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/NhhAAoD9?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2010/t/the-walking-dead-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Walking Dead
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/wtqsAKSN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/wtqsAKSN?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2014/t/the-flash-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", The Flash
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aTjvYk38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/aTjvYk38?download
+#EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2011/z/zamana-karsi-poster-medium.webp" group-title="🎬 TÜRKÇE DUBLAJ FİLMLER", Zamana Karşı
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/N5LJ4RFu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/N5LJ4RFu?download
