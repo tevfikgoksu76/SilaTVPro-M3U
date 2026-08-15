@@ -39,11 +39,11 @@ http://127.0.0.1:6878/ace/getstream?id=4900019edaad4d975d4e258228f90b0c448b178a&
 http://127.0.0.1:6878/ace/getstream?infohash=4a10119e28e698bb157246c3d825628e383af209&pid=160
 #EXTINF:-1 tvg-name="360 HD" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",360 HD
 http://127.0.0.1:6878/ace/getstream?infohash=8a11d6507d3e71bb4cd86ac91bcb84553689fdcb&pid=37
-#EXTINF:-1 tvg-name="Dream Turk" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",Dream Turk
+#EXTINF:-1 tvg-name="Dream Turk" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",Dream Turk
 http://127.0.0.1:6878/ace/getstream?infohash=d6d50afb373768257a51b56d921bebf29a5c39ff&pid=399
-#EXTINF:-1 tvg-name="NR1 Turk TV" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",NR1 Turk TV
+#EXTINF:-1 tvg-name="NR1 Turk TV" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",NR1 Turk TV
 http://127.0.0.1:6878/ace/getstream?infohash=8a674e917b45e0331a2e6b927b32f5a471c5d9a1&pid=800
-#EXTINF:-1 tvg-name="TRT Muzik" group-title="🔴 CANLI ⭐ ACESTREAM | Müzik",TRT Muzik
+#EXTINF:-1 tvg-name="TRT Muzik" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",TRT Muzik
 http://127.0.0.1:6878/ace/getstream?infohash=784a20f6c0b1d1890bc99677d3d95adfbd124f93&pid=1192
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/24_TV_logo.png" tvg-id="24TV>ace" tvg-name="24TV>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Haber",24TV>ace
 http://127.0.0.1:6878/ace/getstream?id=f8c9e145c6be5536243e86644afd8c8bda20ca62&pid=22216
@@ -265,11 +265,11 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="İkraTV>NORMAL PLAYER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-name="İkraTV>NORMAL PLAYER" group-title="🕌 DİNİ",İkraTV>
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-id="Al-ZAHRA>Ace" tvg-name="Al-ZAHRA>Ace" group-title="🕌 DİNİ",Al-ZAHRA>Ace
+#EXTINF:-1 tvg-id="Al-ZAHRA>Ace" tvg-name="Al-ZAHRA>Ace" group-title="🔴 CANLI ⭐ ACESTREAM | Dini",Al-ZAHRA>Ace
 http://127.0.0.1:6878/ace/getstream?id=3b751d11c113824918e77d9d45fbd123fd3cb9e9&pid=48366
 #EXTINF:-1 tvg-id="SHARJAH 2>NORMAL PLAYER" tvg-name="SHARJAH 2>NORMAL PLAYER" group-title="🕌 DİNİ",SHARJAH 2>
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="TRT Diyanet" group-title="🕌 DİNİ",TRT Diyanet
+#EXTINF:-1 tvg-name="TRT Diyanet" group-title="🔴 CANLI ⭐ ACESTREAM | Dini",TRT Diyanet
 http://127.0.0.1:6878/ace/getstream?infohash=a1ac47f8739f83a594d20f38a2cf9d7355fddfac&pid=1188
 #EXTINF:-1 tvg-id="ASTV>NORMAL PLAYER" tvg-name="ASTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",ASTV>
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
@@ -301,17 +301,17 @@ https://canli.edessatv.com/hls/stream.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTV>NORMAL PLAYER" tvg-name="ESTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",ESTV>
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:-1 tvg-id="ALADDİN HD>Ace" tvg-name="ALADDİN HD>Ace" group-title="🔴 CANLI 🧒 ÇOCUK",ALADDİN HD>Ace
+#EXTINF:-1 tvg-id="ALADDİN HD>Ace" tvg-name="ALADDİN HD>Ace" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",ALADDİN HD>Ace
 http://127.0.0.1:6878/ace/getstream?infohash=10fcf956d25a02700e47cb39c82ac4b51482c7b9&pid=129
-#EXTINF:-1 tvg-id="ХузурТВ-HUZURtv_TATAR>ace" tvg-name="ХузурТВ-HUZURtv_TATAR>ace" group-title="🔴 CANLI 🧒 ÇOCUK",ХузурТВ-HUZURtv_TATAR>ace
+#EXTINF:-1 tvg-id="ХузурТВ-HUZURtv_TATAR>ace" tvg-name="ХузурТВ-HUZURtv_TATAR>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",ХузурТВ-HUZURtv_TATAR>ace
 http://127.0.0.1:6878/ace/getstream?id=bb71d7bfac098c07d8cb9b7fbbf2fc013ea6673f&pid=5194
 #EXTINF:-1 tvg-id="TRT Çocuk>NORMAL PLAYER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TRT_Cocuk_logo.svg" tvg-name="TRT Çocuk>NORMAL PLAYER" group-title="🔴 CANLI 🧒 ÇOCUK",TRT Çocuk>
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Minika Cocuk" group-title="🔴 CANLI 🧒 ÇOCUK",Minika Cocuk
+#EXTINF:-1 tvg-name="Minika Cocuk" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Minika Cocuk
 http://127.0.0.1:6878/ace/getstream?infohash=007e74f19645f674173f564fd6a2ec4697c6cbf3&pid=711
-#EXTINF:-1 tvg-name="minikaGO" group-title="🔴 CANLI 🧒 ÇOCUK",minikaGO
+#EXTINF:-1 tvg-name="minikaGO" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",minikaGO
 http://127.0.0.1:6878/ace/getstream?infohash=8855db49026e7e5da454317ee244920c1b5d3ce0&pid=712
-#EXTINF:-1 tvg-name="Smart Cocuk" group-title="🔴 CANLI 🧒 ÇOCUK",Smart Cocuk
+#EXTINF:-1 tvg-name="Smart Cocuk" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Smart Cocuk
 http://127.0.0.1:6878/ace/getstream?infohash=0422e97375b37af02329a2d80e6ec54866fa233f&pid=1100
 #EXTINF:-1 tvg-id="KIBRIS>NORMAL PLAYER" tvg-name="KIBRIS>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",KIBRIS>
 https://edge.kuzeykibrissmart.tv/kibristv/bant1/chunks.m3u8
