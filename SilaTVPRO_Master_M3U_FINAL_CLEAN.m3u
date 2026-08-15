@@ -45,6 +45,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=d6d50afb373768257a51b56d921bebf29a5
 http://127.0.0.1:6878/ace/getstream?infohash=8a674e917b45e0331a2e6b927b32f5a471c5d9a1&pid=800
 #EXTINF:-1 tvg-name="TRT Muzik" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",TRT Muzik
 http://127.0.0.1:6878/ace/getstream?infohash=784a20f6c0b1d1890bc99677d3d95adfbd124f93&pid=1192
+#EXTINF:-1 tvg-name="EURO D" group-title="🔴 CANLI ⭐ ACESTREAM | Ulusal",EURO D
+http://192.168.0.10:6878/ace/getstream?infohash=68d7f91aec4dae4738b4e0a198474d84460d846b&pid=434
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/24_TV_logo.png" tvg-id="24TV>ace" tvg-name="24TV>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Haber",24TV>ace
 http://127.0.0.1:6878/ace/getstream?id=f8c9e145c6be5536243e86644afd8c8bda20ca62&pid=22216
 #EXTINF:-1 tvg-id="A HABER>ace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/A_Haber_logo.png" tvg-name="A HABER>ace" group-title="🔴 CANLI ⭐ ACESTREAM | Haber",A HABER>ace
@@ -271,6 +273,8 @@ http://127.0.0.1:6878/ace/getstream?id=3b751d11c113824918e77d9d45fbd123fd3cb9e9&
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet" group-title="🔴 CANLI ⭐ ACESTREAM | Dini",TRT Diyanet
 http://127.0.0.1:6878/ace/getstream?infohash=a1ac47f8739f83a594d20f38a2cf9d7355fddfac&pid=1188
+#EXTINF:-1 tvg-name="Al Sunnah (Medina)" group-title="🔴 CANLI ⭐ ACESTREAM | Dini",Al Sunnah (Medina)
+http://192.168.0.10:6878/ace/getstream?infohash=c6a4f8991af0212cb7c79c8f20cb9452db0dcf9a&pid=109
 #EXTINF:-1 tvg-id="ASTV>NORMAL PLAYER" tvg-name="ASTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",ASTV>
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="OlayTürk_kayseri>NORMAL PLAYER" tvg-name="OlayTürk_kay>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",OlayTürk_kayseri>
@@ -313,6 +317,10 @@ http://127.0.0.1:6878/ace/getstream?infohash=007e74f19645f674173f564fd6a2ec4697c
 http://127.0.0.1:6878/ace/getstream?infohash=8855db49026e7e5da454317ee244920c1b5d3ce0&pid=712
 #EXTINF:-1 tvg-name="Smart Cocuk" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Smart Cocuk
 http://127.0.0.1:6878/ace/getstream?infohash=0422e97375b37af02329a2d80e6ec54866fa233f&pid=1100
+#EXTINF:-1 tvg-name="HGTN" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",HGTN
+http://192.168.0.10:6878/ace/getstream?infohash=a17005580f3d5f47f9da9c519bd431d32ae431ec&pid=537
+#EXTINF:-1 tvg-name="Gulli Girl RU" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Gulli Girl RU
+http://192.168.0.10:6878/ace/getstream?infohash=45b1c4b07917fd5d1cc10b55d376753593ed4a0a&pid=521
 #EXTINF:-1 tvg-id="KIBRIS>NORMAL PLAYER" tvg-name="KIBRIS>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",KIBRIS>
 https://edge.kuzeykibrissmart.tv/kibristv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="BRT 1>NORMAL PLAYER" tvg-name="BRT 1>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",BRT 1>
@@ -683,7 +691,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=c250de1c096fa5931169d9565cfa4302776
 http://127.0.0.1:6878/ace/getstream?infohash=09332d8389c7c7371e991b850fb1943e3dbb795c&pid=173
 #EXTINF:-1 tvg-name="Boomerang [DE]" group-title="📡 AceStream World",Boomerang [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=6e639532a9d4b0f451112393abeedb2a271b2b15&pid=237
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="📡 AceStream World",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Cartoon Network
 http://127.0.0.1:6878/ace/getstream?infohash=0792adfeb73a95448365029786e51e9d293fdb7b&pid=282
 #EXTINF:-1 tvg-name="Disney Channel" group-title="📡 AceStream World",Disney Channel
 http://127.0.0.1:6878/ace/getstream?infohash=1148b5b2b94c76bdc6dc7f3887600884425d1592&pid=386
@@ -703,6 +711,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=f29369be736fb9b77a27bf6240b162d8405
 http://127.0.0.1:6878/ace/getstream?infohash=cca0918eb3786a19c92b53e56f79209a7f36b450&pid=735
 #EXTINF:-1 tvg-name="MTV Spain" group-title="📡 AceStream World",MTV Spain
 http://127.0.0.1:6878/ace/getstream?infohash=4d68c789f86376ac12b447e9bcab85af99378ff9&pid=736
+#EXTINF:-1 tvg-name="Kavkasia" group-title="📡 AceStream World",Kavkasia
+http://192.168.0.10:6878/ace/getstream?infohash=7b52df566d2e681a5672ff7d8c52a7872f4b748e&pid=502
 #EXTINF:-1 tvg-id="Al Jazeere m3u(3)>NORMAL PLAYER" tvg-name="Al Jazeere m3u(3)>NORPLAYER"group-title="🔴 CANLI 🌍 YABANCI ",Al Jazeere m3u(3)>
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="Al SaudiyaTV>NORMAL PLAYER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Atv_logo_2013.png" tvg-name="Al SaudiyaTV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 YABANCI ",Al SaudiyaTV>
