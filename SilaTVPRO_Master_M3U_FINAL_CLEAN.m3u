@@ -271,7 +271,7 @@ http://127.0.0.1:6878/ace/getstream?id=3b751d11c113824918e77d9d45fbd123fd3cb9e9&
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet" group-title="🕌 DİNİ",TRT Diyanet
 http://127.0.0.1:6878/ace/getstream?infohash=a1ac47f8739f83a594d20f38a2cf9d7355fddfac&pid=1188
-#EXTINF:-1 tvg-name="Al Sunnah(Medina)" group-title="🕌 DİNİ",Al Sunnah(Medina)
+#EXTINF:-1 tvg-name="Al Sunnah(Medina)" group-title="🔴 CANLI ⭐ ACESTREAM | Dini",Al Sunnah(Medina)
 http://192.168.0.10:6878/ace/getstream?infohash=c6a4f8991af0212cb7c79c8f20cb9452db0dcf9a&pid=109
 #EXTINF:-1 tvg-id="ASTV>NORMAL PLAYER" tvg-name="ASTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",ASTV>
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
@@ -687,13 +687,13 @@ http://127.0.0.1:6878/ace/getstream?infohash=c250de1c096fa5931169d9565cfa4302776
 http://127.0.0.1:6878/ace/getstream?infohash=09332d8389c7c7371e991b850fb1943e3dbb795c&pid=173
 #EXTINF:-1 tvg-name="Boomerang [DE]" group-title="📡 AceStream World",Boomerang [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=6e639532a9d4b0f451112393abeedb2a271b2b15&pid=237
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="🔴 CANLI 🧒 ÇOCUK",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Cartoon Network
 http://127.0.0.1:6878/ace/getstream?infohash=0792adfeb73a95448365029786e51e9d293fdb7b&pid=282
-#EXTINF:-1 tvg-name="HGTN" group-title="🔴 CANLI 🧒 ÇOCUK",HGTN
+#EXTINF:-1 tvg-name="HGTN" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",HGTN
 http://192.168.0.10:6878/ace/getstream?infohash=a17005580f3d5f47f9da9c519bd431d32ae431ec&pid=537
-#EXTINF:-1 tvg-name="Cartoon Network Kavkasia" group-title="🔴 CANLI 🧒 ÇOCUK",Cartoon Network Kavkasia
+#EXTINF:-1 tvg-name="Cartoon Network Kavkasia" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Cartoon Network Kavkasia
 http://192.168.0.10:6878/ace/getstream?infohash=7b52df566d2e681a5672ff7d8c52a7872f4b748e&pid=502
-#EXTINF:-1 tvg-name="Gulli Girl RU" group-title="🔴 CANLI 🧒 ÇOCUK",Gulli Girl RU
+#EXTINF:-1 tvg-name="Gulli Girl RU" group-title="🔴 CANLI ⭐ ACESTREAM | Çocuk",Gulli Girl RU
 http://192.168.0.10:6878/ace/getstream?infohash=45b1c4b07917fd5d1cc10b55d376753593ed4a0a&pid=521
 #EXTINF:-1 tvg-name="Disney Channel" group-title="📡 AceStream World",Disney Channel
 http://127.0.0.1:6878/ace/getstream?infohash=1148b5b2b94c76bdc6dc7f3887600884425d1592&pid=386
