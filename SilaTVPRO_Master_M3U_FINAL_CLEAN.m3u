@@ -115384,3 +115384,5 @@ https://dmax-p3.mncdn.com/smil:EHD_373393_smil.smil/chunklist_b568000.m3u8?st=AG
 https://dmax-p3.mncdn.com/smil:EHD_373394_smil.smil/chunklist_b568000.m3u8?st=2kBrdge0SM25H-C-Zhb_kg&e=1788178914&r=14
 #EXTINF:-1 tvg-id="DMAX Belgesel S05E09" tvg-name="DMAX Belgesel S05E09" group-title="DMAX",DMAX Belgesel S05E09
 https://dmax-p3.mncdn.com/smil:EHD_373395_smil.smil/chunklist_b568000.m3u8?st=hg11-8BoAlgmBkfo1xHGxw&e=1788178978&r=14
+#EXTINF:-1 tvg-id="SILATV-BILDIRIM-TEST-001" tvg-name="SılaTV Bildirim Testi" group-title="DMAX",SılaTV Bildirim Testi
+https://dmax-p3.mncdn.com/smil:EHD_950563I_smil.smil/chunklist_b568000.m3u8?st=4f76efZ5WeG2veeMVoq4Gw&e=1788175275&r=14
