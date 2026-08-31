@@ -115388,3 +115388,5 @@ https://dmax-p3.mncdn.com/smil:EHD_373395_smil.smil/chunklist_b568000.m3u8?st=hg
 https://dmax-p3.mncdn.com/smil:EHD_950563I_smil.smil/chunklist_b568000.m3u8?st=4f76efZ5WeG2veeMVoq4Gw&e=1788175275&r=14
 #EXTINF:-1 tvg-id="SILATV-DMAX-NOTIFY-TEST-002" tvg-name="DMAX Bildirim Test Kanalı 2" group-title="DMAX",DMAX Bildirim Test Kanalı 2
 https://dmax-p2.mncdn.com/delivery/2019/05/28/30933_6ccbe756d08b21860daa852293d4665f.smil/chunklist_b841252_sleng.m3u8?st=b3na9e-RwDNZHMDZKEeZwA&e=1788163864&r=14
+#EXTINF:-1 tvg-id="SILATV-DMAX-BANNER-FINAL-TEST-003" tvg-name="DMAX Banner Son Test" group-title="DMAX",DMAX Banner Son Test
+https://dmax-p2.mncdn.com/delivery/2019/05/27/30921_25547b938728538a83fa06594d1f4359.smil/chunklist_b837132_sleng.m3u8?st=hCQ7bnR-6BTW0ASRNflE5Q&e=1788164830&r=14
