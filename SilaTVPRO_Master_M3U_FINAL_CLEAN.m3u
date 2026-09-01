@@ -115220,7 +115220,7 @@ https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8
 https://edge.taksimbilisim.com/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="REHBER" group-title="📺 CANLI TV | YENİ KANALLAR",REHBER
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="RUHA TV" group-title="📺 CANLI TV | YENİ KANALLAR",RUHA TV
+#EXTINF:-1 tvg-id="RuhaTV>NORMAL PLAYER" tvg-name="RuhaTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",RuhaTV>
 https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8
 #EXTINF:-1 tvg-name="S SPORT" group-title="📺 CANLI TV | YENİ KANALLAR",S SPORT
 https://corestream.siteyaptim.live/s-sport/index.m3u8
@@ -115230,8 +115230,8 @@ https://corestream.siteyaptim.live/s-sport2/index.m3u8
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="TİVİ 6" group-title="📺 CANLI TV | YENİ KANALLAR",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="DİYANET ÇOCUK" group-title="📺 CANLI TV | YENİ KANALLAR",DİYANET ÇOCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Diyanet Çocuk>NORMAL PLAYER" tvg-name="Diyanet Çocuk>NORMAL PLAYER" group-title="🔴 CANLI 🧒 ÇOCUK",Diyanet Çocuk>
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TH" group-title="📺 CANLI TV | YENİ KANALLAR",TH
 https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 41" group-title="📺 CANLI TV | YENİ KANALLAR",TV 41
@@ -115258,3 +115258,11 @@ https://faf85786.545645.xyz/file/snwaxdop/The.Watcher.2022.S01E05.DUAL.mkv
 https://faf85786.545645.xyz/file/snwaxdop/The.Watcher.2022.S01E06.DUAL.mkv
 #EXTINF:-1 tvg-id="Bölüm 7" tvg-name="👁️ The Watcher|Bölüm 7" tvg-logo="https://image.tmdb.org/t/p/w500/ee1Aiyt9poE9HR2IN1OEvbrRGkO.jpg" group-title="👁️ The Watcher",👁️ The Watcher S01E07
 https://faf85786.545645.xyz/file/snwaxdop/The.Watcher.2022.S01E07.DUAL.mkv
+#EXTINF:-1 tvg-id="CemTV>NORMAL PLAYER" tvg-name="CemTV>NORMAL PLAYER" group-title="🔴 CANLI 🏘️ YÖRESEL",CemTV>
+https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
+#EXTINF:-1 tvg-id="Türkistan>NORMAL PLAYER" tvg-name="Türkistan>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",Türkistan>
+https://cdn-media-content.onestream.studio/content/hls/live/live_1741993_qvolgw9ut/hls.m3u8
+#EXTINF:-1 tvg-id="Az DıgınetSinema>NORMAL PLAYER" tvg-name="Az DıgınetSinema>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",Az DıgınetSinema>
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-id="KTV>NORMAL PLAYER" tvg-name="KTV>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",KTV>
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
