@@ -115264,3 +115264,5 @@ https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 tvg-id="KTV>NORMAL PLAYER" tvg-name="KTV>NORMAL PLAYER" group-title="🔴 CANLI 🌐 TÜRK DÜNYASI",KTV>
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SılaTV TEST Kanal>NORMAL PLAYER" tvg-name="SılaTV TEST Kanal>NORMAL PLAYER" group-title="🔴 CANLI 🧒 ÇOCUK",SılaTV TEST Kanal>
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
