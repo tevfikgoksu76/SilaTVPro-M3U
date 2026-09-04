@@ -231,12 +231,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="TABİİ TV>NORMAL PLAYER" tvg-name="TABİİ TV>NORMAL PLAYER" group-title="🔴 CANLI 🎬 SİNEMA",TABİİ TV>
 https://ceokzokgtd.fdc.ercdn.net/giuqlxwlrl/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Fberbox" tvg-name="Fberbox" group-title="🔴 CANLI 🎬 SİNEMA",Fberbox
-http://82.70.45.131/Giniko.php?ID=1217
-#EXTINF:-1 tvg-id="FYeşilçam" tvg-name="FYeşilçam" group-title="🔴 CANLI 🎬 SİNEMA",FYeşilçam
-http://82.70.45.131/Giniko.php?ID=207
-#EXTINF:-1 tvg-id="BiKanal" tvg-name="BiKanal" group-title="🔴 CANLI 🎬 SİNEMA",BiKanal
-http://82.70.45.131/Giniko.php?ID=784
 #EXTINF:-1 tvg-id="VİASAT EXPLORE[PL]>Ace" tvg-name="VİASAT EXPLORE[PL]>Ace" group-title="🔴 CANLI ⭐ ACESTREAM | Belgesel",VİASAT EXPLORE[PL]>Ace
 http://127.0.0.1:6878/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4&pid=15838
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",LOVE NATURE>
