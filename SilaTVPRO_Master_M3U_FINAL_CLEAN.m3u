@@ -4455,16 +4455,6 @@ https://vidmody.com/vs/tt39314348
 https://vidmody.com/vs/tt36590322
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg" group-title=" 🦊BELGESEL" rating="8.2", The Rise of the Red Hot Chili Peppers: Our Brother, Hillel | ⭐8.2
 https://vidmody.com/vs/tt36971084
-# ===== SİLATV PRO | AİLENİN YENİ ÜYESİ | 4 BÖLÜM | YOUTUBE =====
-#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi 1 Bolum" tvg-name="Ailenin Yeni Üyesi 1 Bolum | Jakarta" tvg-logo="https://i.ytimg.com/vi/SepgsciFIIE/hqdefault.jpg" group-title=" 🦊BELGESEL",Ailenin Yeni Üyesi 1 Bolum | Jakarta
-https://youtu.be/SepgsciFIIE?si=2U_p0BMzPg4bbpBD
-#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi 2 Bolum" tvg-name="Ailenin Yeni Üyesi 2 Bolum | Endonezya" tvg-logo="https://i.ytimg.com/vi/l5spA1EiYDE/hqdefault.jpg" group-title=" 🦊BELGESEL",Ailenin Yeni Üyesi 2 Bolum | Endonezya
-https://youtu.be/l5spA1EiYDE?si=Dpa4RGyvXGrUPGPd
-#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | Sumatra" tvg-name="Ailenin Yeni Üyesi | Sumatra" tvg-logo="https://i.ytimg.com/vi/avYv4YFubPM/hqdefault.jpg" group-title=" 🦊BELGESEL",Ailenin Yeni Üyesi | Sumatra
-https://youtu.be/avYv4YFubPM?si=Xz_5LABXCSB2QMgG
-#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | Meksika" tvg-name="Ailenin Yeni Üyesi | Meksika" tvg-logo="https://i.ytimg.com/vi/ltUSNyjlFUY/hqdefault.jpg" group-title=" 🦊BELGESEL",Ailenin Yeni Üyesi | Meksika
-https://youtu.be/ltUSNyjlFUY?si=RFF-XN5ERVIlYw4d
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ebp1dNueJth2aLXRitU4decZY6D.jpg" tvg-id="Bölüm 1>alt yazılı" tvg-name="🔱Hapishane|Bölüm 1>alt yazılı" group-title="🍿 NETFLIX DİZİ",🔱Hapishane S01E01
 https://fa87f.455454566.xyz/file/snwixdpo/enzorluhapishane.s01.e01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ebp1dNueJth2aLXRitU4decZY6D.jpg" tvg-id="Bölüm 2>alt yazılı" tvg-name="🔱Hapishane|Bölüm 2>alt yazılı" group-title="🍿 NETFLIX DİZİ",🔱Hapishane S01E02
@@ -115496,3 +115486,11 @@ https://www.youtube.com/watch?v=jTeLdFfITs4
 https://www.izle7.com/kanal7/izle-5800-dizi-hz-yusuf.html
 #EXTINF:-1 tvg-id="Hz.Yusuf.Film" tvg-name="Hz. Yusuf | Sinema Versiyonu" group-title="🎬 YOUTUBE FİLMLERİ",Hz. Yusuf | Sinema Versiyonu
 https://www.youtube.com/watch?v=7loRubAeJ58
+#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | 1. Bölüm | Jakarta" tvg-logo="https://i.ytimg.com/vi/SepgsciFIIE/hqdefault.jpg" tvg-name="Ailenin Yeni Üyesi | 1. Bölüm | Jakarta" group-title="🎬 YOUTUBE | BELGESEL",Ailenin Yeni Üyesi | 1. Bölüm | Jakarta
+https://www.youtube.com/watch?v=SepgsciFIIE
+#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | 2. Bölüm | Endonezya" tvg-logo="https://i.ytimg.com/vi/l5spA1EiYDE/hqdefault.jpg" tvg-name="Ailenin Yeni Üyesi | 2. Bölüm | Endonezya" group-title="🎬 YOUTUBE | BELGESEL",Ailenin Yeni Üyesi | 2. Bölüm | Endonezya
+https://www.youtube.com/watch?v=l5spA1EiYDE
+#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | Sumatra" tvg-logo="https://i.ytimg.com/vi/avYv4YFubPM/hqdefault.jpg" tvg-name="Ailenin Yeni Üyesi | Sumatra" group-title="🎬 YOUTUBE | BELGESEL",Ailenin Yeni Üyesi | Sumatra
+https://www.youtube.com/watch?v=avYv4YFubPM
+#EXTINF:-1 tvg-id="Ailenin Yeni Üyesi | Meksika" tvg-logo="https://i.ytimg.com/vi/ltUSNyjlFUY/hqdefault.jpg" tvg-name="Ailenin Yeni Üyesi | Meksika" group-title="🎬 YOUTUBE | BELGESEL",Ailenin Yeni Üyesi | Meksika
+https://www.youtube.com/watch?v=ltUSNyjlFUY
