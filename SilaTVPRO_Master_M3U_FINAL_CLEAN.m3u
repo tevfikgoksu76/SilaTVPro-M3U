@@ -247,55 +247,55 @@ http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-id="VİASAT EXPLORE[PL]>Ace" tvg-name="VİASAT EXPLORE[PL]>Ace" group-title="🔴 CANLI ⭐ ACESTREAM | Belgesel",VİASAT EXPLORE[PL]>Ace
 http://127.0.0.1:6878/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4&pid=15838
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",LOVE NATURE>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",LOVE NATURE>
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",NATURE TIME>
+#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",NATURE TIME>
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
-#EXTINF:-1 tvg-id="BelgeseTV>NORMAL PLAYER" tvg-name="BelgeseTV" group-title="📚 BELGESEL DÜNYASI",BelgeseTV>
+#EXTINF:-1 tvg-id="BelgeseTV>NORMAL PLAYER" tvg-name="BelgeseTV" group-title="🔴 CANLI 🌍 BELGESEL",BelgeseTV>
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Discovery_Channel_logo.svg" tvg-id="DİSCOVERY CHİNA>NORMAL PLAYER" tvg-name="DİSCOVERY CHİNA>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",DİSCOVERY CHİNA>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Discovery_Channel_logo.svg" tvg-id="DİSCOVERY CHİNA>NORMAL PLAYER" tvg-name="DİSCOVERY CHİNA>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",DİSCOVERY CHİNA>
 https://shr.pn/4c1g
-#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",WildEarth>
+#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",WildEarth>
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="H2tv>NORMAL PLAYER" tvg-name="H2tv>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",H2tv>
+#EXTINF:-1 tvg-id="H2tv>NORMAL PLAYER" tvg-name="H2tv>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",H2tv>
 https://linear-738.frequency.stream/mt/sportstribaltv/738/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="HUNT FİSHtv>NORMAL PLAYER" tvg-name="HUNT FİSHtv>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",HUNT FİSHtv>
+#EXTINF:-1 tvg-id="HUNT FİSHtv>NORMAL PLAYER" tvg-name="HUNT FİSHtv>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",HUNT FİSHtv>
 https://shr.pn/UF3r
 #EXTINF:-1 tvg-id="Dmax>NORMAL PLAYER" tvg-name="Dmax>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Dmax
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/dmax/index.m3u8
 #EXTINF:-1 tvg-id="TLC>NORMAL PLAYER" tvg-name="TLC>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",TLC
 http://176.65.153.66:6001/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="Tarih TV>NORMAL PLAYER" tvg-name="Tarih TV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Tarih TV
+#EXTINF:-1 tvg-id="Tarih TV>NORMAL PLAYER" tvg-name="Tarih TV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Tarih TV
 https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild>NORMAL PLAYER" tvg-name="NatGeo Wild>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",NatGeo Wild
+#EXTINF:-1 tvg-id="NatGeo Wild>NORMAL PLAYER" tvg-name="NatGeo Wild>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",NatGeo Wild
 https://vavoo.biz-az.workers.dev/play/151923711672a921906b9e.m3u8
-#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Cgtn
+#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Cgtn
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="TT Documantery>NORMAL PLAYER" tvg-name="TT Documantery>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",TT Documantery
+#EXTINF:-1 tvg-id="TT Documantery>NORMAL PLAYER" tvg-name="TT Documantery>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",TT Documantery
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="Spike Autdoor>NORMAL PLAYER" tvg-name="Spike Autdoor>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Spike Autdoor
+#EXTINF:-1 tvg-id="Spike Autdoor>NORMAL PLAYER" tvg-name="Spike Autdoor>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Spike Autdoor
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
-#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",China Travel
+#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="FishTV>NORMAL PLAYER" tvg-name="FishTV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",FishTV
+#EXTINF:-1 tvg-id="FishTV>NORMAL PLAYER" tvg-name="FishTV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",FishTV
 http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="Ohognig>NORMAL PLAYER" tvg-name="Ohognig>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Ohognig
+#EXTINF:-1 tvg-id="Ohognig>NORMAL PLAYER" tvg-name="Ohognig>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Ohognig
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 tvg-id="OkhotaTV>NORMAL PLAYER" tvg-name="OkhotaTV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OkhotaTV
+#EXTINF:-1 tvg-id="OkhotaTV>NORMAL PLAYER" tvg-name="OkhotaTV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OkhotaTV
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OutSide
+#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OutSide
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="The Fishing>NORMAL PLAYER" tvg-name="The Fishing>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",The Fishing
+#EXTINF:-1 tvg-id="The Fishing>NORMAL PLAYER" tvg-name="The Fishing>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",The Fishing
 http://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="Fish_uk>NORMAL PLAYER" tvg-name="Fish_uk>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Fish_uk
+#EXTINF:-1 tvg-id="Fish_uk>NORMAL PLAYER" tvg-name="Fish_uk>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Fish_uk
 https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
-#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",DocuBox
+#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecovision>NORMAL PLAYER" tvg-name="Ecovision>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Ecovision
+#EXTINF:-1 tvg-id="Ecovision>NORMAL PLAYER" tvg-name="Ecovision>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Ecovision
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",RtDoc
+#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",RtDoc
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="OzbakistanTariki>NORMAL PLAYER" tvg-name="OzbakistanTariki>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OzbakistanTariki
+#EXTINF:-1 tvg-id="OzbakistanTariki>NORMAL PLAYER" tvg-name="OzbakistanTariki>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OzbakistanTariki
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="DiyanetTV>NORMAL PLAYER" tvg-name="DiyanetTV>NORMAL PLAYER" group-title="🕌 DİNİ",DiyanetTV>
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -115196,5 +115196,3 @@ https://www.youtube.com/watch?v=avYv4YFubPM
 https://www.youtube.com/watch?v=ltUSNyjlFUY
 #EXTINF:-1 tvg-id="Hz.Yusuf.Film" tvg-name="Hz. Yusuf | Sinema Versiyonu" group-title="🎬 YOUTUBE FİLMLERİ",Hz. Yusuf | Sinema Versiyonu
 https://www.youtube.com/watch?v=7loRubAeJ58
-#EXTINF:-1 tvg-logo="" group-title="📚 BELGESEL DÜNYASI",beIN IZ
-http://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Cn6BB2gH3yFp1kl6f-qBMes5y8_Q-YUF0gqsLelK15CZOPBjgCysTvPDwN482NMSgeToCsGdXBEOPDgM2qoo6dfymay6JaMgeqkg2qj5Zu7xT8DosuiVzS_gt0KzsEgJ-CpXfjjBGcudRkizjJpQ3L4w8aXDE0ECXwBveX97bduL5lKiyE_XYKGzBOch_JTa1PJtDGdWL_MR7TfB9F8o-W7RgclV1vz3J-dQrzW-5fgC1Tw__TQZgTW3DEL9_nUj/hls/index.m3u8?healthcheck=20260910
