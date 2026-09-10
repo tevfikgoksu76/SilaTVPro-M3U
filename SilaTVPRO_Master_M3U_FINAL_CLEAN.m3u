@@ -247,55 +247,55 @@ http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-id="VİASAT EXPLORE[PL]>Ace" tvg-name="VİASAT EXPLORE[PL]>Ace" group-title="🔴 CANLI ⭐ ACESTREAM | Belgesel",VİASAT EXPLORE[PL]>Ace
 http://127.0.0.1:6878/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4&pid=15838
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",LOVE NATURE>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",LOVE NATURE>
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",NATURE TIME>
+#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",NATURE TIME>
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
-#EXTINF:-1 tvg-id="BelgeseTV>NORMAL PLAYER" tvg-name="BelgeseTV" group-title="📚 BELGESEL DÜNYASI",BelgeseTV>
+#EXTINF:-1 tvg-id="BelgeseTV>NORMAL PLAYER" tvg-name="BelgeseTV" group-title="🔴 CANLI 🌍 BELGESEL",BelgeseTV>
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Discovery_Channel_logo.svg" tvg-id="DİSCOVERY CHİNA>NORMAL PLAYER" tvg-name="DİSCOVERY CHİNA>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",DİSCOVERY CHİNA>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Discovery_Channel_logo.svg" tvg-id="DİSCOVERY CHİNA>NORMAL PLAYER" tvg-name="DİSCOVERY CHİNA>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",DİSCOVERY CHİNA>
 https://shr.pn/4c1g
-#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",WildEarth>
+#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",WildEarth>
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="H2tv>NORMAL PLAYER" tvg-name="H2tv>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",H2tv>
+#EXTINF:-1 tvg-id="H2tv>NORMAL PLAYER" tvg-name="H2tv>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",H2tv>
 https://linear-738.frequency.stream/mt/sportstribaltv/738/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="HUNT FİSHtv>NORMAL PLAYER" tvg-name="HUNT FİSHtv>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",HUNT FİSHtv>
+#EXTINF:-1 tvg-id="HUNT FİSHtv>NORMAL PLAYER" tvg-name="HUNT FİSHtv>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",HUNT FİSHtv>
 https://shr.pn/UF3r
 #EXTINF:-1 tvg-id="Dmax>NORMAL PLAYER" tvg-name="Dmax>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Dmax
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/dmax/index.m3u8
 #EXTINF:-1 tvg-id="TLC>NORMAL PLAYER" tvg-name="TLC>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",TLC
 http://176.65.153.66:6001/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="Tarih TV>NORMAL PLAYER" tvg-name="Tarih TV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Tarih TV
+#EXTINF:-1 tvg-id="Tarih TV>NORMAL PLAYER" tvg-name="Tarih TV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Tarih TV
 https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild>NORMAL PLAYER" tvg-name="NatGeo Wild>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",NatGeo Wild
+#EXTINF:-1 tvg-id="NatGeo Wild>NORMAL PLAYER" tvg-name="NatGeo Wild>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",NatGeo Wild
 https://vavoo.biz-az.workers.dev/play/151923711672a921906b9e.m3u8
-#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Cgtn
+#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Cgtn
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="TT Documantery>NORMAL PLAYER" tvg-name="TT Documantery>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",TT Documantery
+#EXTINF:-1 tvg-id="TT Documantery>NORMAL PLAYER" tvg-name="TT Documantery>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",TT Documantery
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="Spike Autdoor>NORMAL PLAYER" tvg-name="Spike Autdoor>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Spike Autdoor
+#EXTINF:-1 tvg-id="Spike Autdoor>NORMAL PLAYER" tvg-name="Spike Autdoor>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Spike Autdoor
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
-#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",China Travel
+#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="FishTV>NORMAL PLAYER" tvg-name="FishTV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",FishTV
+#EXTINF:-1 tvg-id="FishTV>NORMAL PLAYER" tvg-name="FishTV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",FishTV
 http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="Ohognig>NORMAL PLAYER" tvg-name="Ohognig>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Ohognig
+#EXTINF:-1 tvg-id="Ohognig>NORMAL PLAYER" tvg-name="Ohognig>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Ohognig
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 tvg-id="OkhotaTV>NORMAL PLAYER" tvg-name="OkhotaTV>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OkhotaTV
+#EXTINF:-1 tvg-id="OkhotaTV>NORMAL PLAYER" tvg-name="OkhotaTV>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OkhotaTV
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OutSide
+#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OutSide
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="The Fishing>NORMAL PLAYER" tvg-name="The Fishing>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",The Fishing
+#EXTINF:-1 tvg-id="The Fishing>NORMAL PLAYER" tvg-name="The Fishing>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",The Fishing
 http://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="Fish_uk>NORMAL PLAYER" tvg-name="Fish_uk>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Fish_uk
+#EXTINF:-1 tvg-id="Fish_uk>NORMAL PLAYER" tvg-name="Fish_uk>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Fish_uk
 https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
-#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",DocuBox
+#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecovision>NORMAL PLAYER" tvg-name="Ecovision>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",Ecovision
+#EXTINF:-1 tvg-id="Ecovision>NORMAL PLAYER" tvg-name="Ecovision>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",Ecovision
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",RtDoc
+#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",RtDoc
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="OzbakistanTariki>NORMAL PLAYER" tvg-name="OzbakistanTariki>NORMAL PLAYER" group-title="📚 BELGESEL DÜNYASI",OzbakistanTariki
+#EXTINF:-1 tvg-id="OzbakistanTariki>NORMAL PLAYER" tvg-name="OzbakistanTariki>NORMAL PLAYER" group-title="🔴 CANLI 🌍 BELGESEL",OzbakistanTariki
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TRT_Belgesel_logo.svg" tvg-id="DiyanetTV>NORMAL PLAYER" tvg-name="DiyanetTV>NORMAL PLAYER" group-title="🕌 DİNİ",DiyanetTV>
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -115196,5 +115196,311 @@ https://www.youtube.com/watch?v=avYv4YFubPM
 https://www.youtube.com/watch?v=ltUSNyjlFUY
 #EXTINF:-1 tvg-id="Hz.Yusuf.Film" tvg-name="Hz. Yusuf | Sinema Versiyonu" group-title="🎬 YOUTUBE FİLMLERİ",Hz. Yusuf | Sinema Versiyonu
 https://www.youtube.com/watch?v=7loRubAeJ58
-#EXTINF:-1 tvg-logo="" group-title="📚 BELGESEL DÜNYASI",beIN IZ
-http://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Cn6BB2gH3yFp1kl6f-qBMes5y8_Q-YUF0gqsLelK15CZOPBjgCysTvPDwN482NMSgeToCsGdXBEOPDgM2qoo6dfymay6JaMgeqkg2qj5Zu7xT8DosuiVzS_gt0KzsEgJ-CpXfjjBGcudRkizjJpQ3L4w8aXDE0ECXwBveX97bduL5lKiyE_XYKGzBOch_JTa1PJtDGdWL_MR7TfB9F8o-W7RgclV1vz3J-dQrzW-5fgC1Tw__TQZgTW3DEL9_nUj/hls/index.m3u8
+
+# Diriliş Ertuğrul — 152 Bölüm
+# Bilgi: https://www.justwatch.com/au/tv-show/dirilis-ertugrul
+# Logo: https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-1" tvg-name="Diriliş Ertuğrul 1. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 1. Bölüm
+https://youtu.be/3yjO6yfHLcU?si=0API4QiIv7LlXvBJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-2" tvg-name="Diriliş Ertuğrul 2. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 2. Bölüm
+https://youtu.be/aHj-PkwU4ps?si=e4YKEvtrdYWMmak4
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-3" tvg-name="Diriliş Ertuğrul 3. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 3. Bölüm
+https://youtu.be/7rlde3OSlKY?si=zS9_SWHhQk75bd2-
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-4" tvg-name="Diriliş Ertuğrul 4. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 4. Bölüm
+https://youtu.be/DMRZxUi_7Nw?si=fwxYuzF6d5nMc6OK
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-5" tvg-name="Diriliş Ertuğrul 5. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 5. Bölüm
+https://youtu.be/Pt3wZN6fusQ?si=Ll6GNp_rKQzoD6D-
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-6" tvg-name="Diriliş Ertuğrul 6. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 6. Bölüm
+https://youtu.be/5uVh7uxoAxM?si=56Ykcv1FeTnbxi6x
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-7" tvg-name="Diriliş Ertuğrul 7. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 7. Bölüm
+https://youtu.be/Hk8SQekt8dw?si=uP1Hp6-z_DRRalq5
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-8" tvg-name="Diriliş Ertuğrul 8. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 8. Bölüm
+https://youtu.be/-5eb7ON6IiQ?si=a9cvQa4txK9dxeFa
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-9" tvg-name="Diriliş Ertuğrul 9. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 9. Bölüm
+https://youtu.be/vVrzxFPMi3g?si=jKgghW3FlATucLaj
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-10" tvg-name="Diriliş Ertuğrul 10. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 10. Bölüm
+https://youtu.be/nvRqtW9AiIE?si=bZkznvwURSZaPdQ_
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-11" tvg-name="Diriliş Ertuğrul 11. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 11. Bölüm
+https://youtu.be/B7qjUWJ81iU?si=cyRA8bHa_XCrbS6n
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-12" tvg-name="Diriliş Ertuğrul 12. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 12. Bölüm
+https://youtu.be/RS804OJcsXQ?si=Ahu4iY66Q2Faiqfv
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-13" tvg-name="Diriliş Ertuğrul 13. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 13. Bölüm
+https://youtu.be/QQG-VRMGfws?si=2iib2rCdyh3z09NF
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-14" tvg-name="Diriliş Ertuğrul 14. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 14. Bölüm
+https://youtu.be/Qwx3lEesud0?si=dwN8-_uGHiD2zrCJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-15" tvg-name="Diriliş Ertuğrul 15. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 15. Bölüm
+https://youtu.be/GmgqW-O6DU0?si=jiRbhTYseYdcBnvV
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-16" tvg-name="Diriliş Ertuğrul 16. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 16. Bölüm
+https://youtu.be/YUCZ9EkeAJ0?si=Z1NDXVefeIxIAMHK
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-17" tvg-name="Diriliş Ertuğrul 17. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 17. Bölüm
+https://youtu.be/tUTSUmLH8SY?si=AtxZhagkVpxXtjdI
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-18" tvg-name="Diriliş Ertuğrul 18. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 18. Bölüm
+https://youtu.be/9xGqDbDh1ec?si=odouhUSsAdX_0GmR
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-19" tvg-name="Diriliş Ertuğrul 19. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 19. Bölüm
+https://youtu.be/lp4XpKhC1YY?si=CAnkIPVmrF7n4Zea
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-20" tvg-name="Diriliş Ertuğrul 20. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 20. Bölüm
+https://youtu.be/MYja0PzfHkI?si=Vjp7ZuI8FPMZLL-Z
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-21" tvg-name="Diriliş Ertuğrul 21. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 21. Bölüm
+https://youtu.be/1uGRXlYwKQ0?si=1if4W6rTKMNq5qMh
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-22" tvg-name="Diriliş Ertuğrul 22. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 22. Bölüm
+https://youtu.be/1uGRXlYwKQ0?si=xFBmHBX8koLWx-7l
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-23" tvg-name="Diriliş Ertuğrul 23. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 23. Bölüm
+https://youtu.be/hCzn6tmDHe0?si=VCWAIQaYQ10sx8zL
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-24" tvg-name="Diriliş Ertuğrul 24. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 24. Bölüm
+https://youtu.be/tjwAfEtzk4A?si=CKQpAfi9D2QsB014
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-25" tvg-name="Diriliş Ertuğrul 25. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 25. Bölüm
+https://youtu.be/elAZhiyDhfs?si=O3WZYv3BHLpxq8gW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-26" tvg-name="Diriliş Ertuğrul 26. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 26. Bölüm
+https://youtu.be/X16l96TFFoU?si=4X9HDs7UwTKkXR87
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-27" tvg-name="Diriliş Ertuğrul 27. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 27. Bölüm
+https://youtu.be/PWMapEOrf2w?si=jMGn4qFVR1w5Lr82
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-28" tvg-name="Diriliş Ertuğrul 28. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 28. Bölüm
+https://youtu.be/BgYrRKUJHBU?si=DI3Nzy37g18cXXDs
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-29" tvg-name="Diriliş Ertuğrul 29. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 29. Bölüm
+https://youtu.be/1_-r_8lj5jQ?si=0cQjlJltX_M3YxwQ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-30" tvg-name="Diriliş Ertuğrul 30. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 30. Bölüm
+https://youtu.be/w4oNFo26BjU?si=zfZEOY3CN7qKX5Mw
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-31" tvg-name="Diriliş Ertuğrul 31. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 31. Bölüm
+https://youtu.be/2CgbIB0NLV4?si=VTDUfIZbBsB28SNR
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-32" tvg-name="Diriliş Ertuğrul 32. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 32. Bölüm
+https://youtu.be/fJ0vzbIB3TE?si=WEsMjcvwydrIX-0P
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-33" tvg-name="Diriliş Ertuğrul 33. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 33. Bölüm
+https://youtu.be/DclZ_eaDfdQ?si=mGdDnvp5ou62tl9b
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-34" tvg-name="Diriliş Ertuğrul 34. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 34. Bölüm
+https://youtu.be/Co15epV2k3Q?si=pbYsGx1GOwYir25F
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-35" tvg-name="Diriliş Ertuğrul 35. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 35. Bölüm
+https://youtu.be/wJvj_PITnXY?si=2x4Bk5GSSlFMnxLf
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-36" tvg-name="Diriliş Ertuğrul 36. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 36. Bölüm
+https://youtu.be/wJvj_PITnXY?si=X7GcZW0yRWccDO_6
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-37" tvg-name="Diriliş Ertuğrul 37. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 37. Bölüm
+https://youtu.be/wJvj_PITnXY?si=07Zye6MLrNpXleiW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-38" tvg-name="Diriliş Ertuğrul 38. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 38. Bölüm
+https://youtu.be/x8MRPlUhzQU?si=R0B59LrO-J8YP5g-
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-39" tvg-name="Diriliş Ertuğrul 39. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 39. Bölüm
+https://youtu.be/qVeMvm6__Ic?si=aBqjBchza2NQf-YA
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-40" tvg-name="Diriliş Ertuğrul 40. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 40. Bölüm
+https://youtu.be/YJUuo8ije5k?si=ajzRt5pvJkmZcvAU
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-41" tvg-name="Diriliş Ertuğrul 41. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 41. Bölüm
+https://youtu.be/btLD5K3n79c?si=NH3YjYNmk2For86i
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-42" tvg-name="Diriliş Ertuğrul 42. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 42. Bölüm
+https://youtu.be/fl3TbmTbUZY?si=F8S5lQO8EbujH8FP
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-43" tvg-name="Diriliş Ertuğrul 43. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 43. Bölüm
+https://youtu.be/4OtttB9nSNI?si=VKpLKCgAejO24xfW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-44" tvg-name="Diriliş Ertuğrul 44. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 44. Bölüm
+https://youtu.be/dS6PsPNdUh0?si=FEQafp__LnPbClQj
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-45" tvg-name="Diriliş Ertuğrul 45. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 45. Bölüm
+https://youtu.be/HOjTvQVzuJs?si=KUlrHNO_Gsraqk71
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-46" tvg-name="Diriliş Ertuğrul 46. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 46. Bölüm
+https://youtu.be/x-sIUR3b-C8?si=n_jygqxxAoQe5F_Q
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-47" tvg-name="Diriliş Ertuğrul 47. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 47. Bölüm
+https://youtu.be/go2HhLZ1l7E?si=6dVn_zPVqV4ot7sd
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-48" tvg-name="Diriliş Ertuğrul 48. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 48. Bölüm
+https://youtu.be/TjqSx_Wy-2Y?si=vlDiNDODJm_diaxL
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-49" tvg-name="Diriliş Ertuğrul 49. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 49. Bölüm
+https://youtu.be/PGlYZK33cyo?si=8MthLq0-O3te4qtl
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-50" tvg-name="Diriliş Ertuğrul 50. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 50. Bölüm
+https://youtu.be/zVi6Rh1R6rw?si=3_fuTe0z1OV8a8lT
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-51" tvg-name="Diriliş Ertuğrul 51. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 51. Bölüm
+https://youtu.be/z7QoeCFjQ1U?si=BYYOAKAELFVZb1K6
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-52" tvg-name="Diriliş Ertuğrul 52. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 52. Bölüm
+https://youtu.be/gV0FkxTu4Lg?si=hxhh2KPGFnxHzB5l
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-53" tvg-name="Diriliş Ertuğrul 53. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 53. Bölüm
+https://youtu.be/cOF4CmEq9Xk?si=ywGOBYyktX69ZL2P
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-54" tvg-name="Diriliş Ertuğrul 54. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 54. Bölüm
+https://youtu.be/yrLQBvdU37o?si=a_UgXtgBySSOhnCF
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-55" tvg-name="Diriliş Ertuğrul 55. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 55. Bölüm
+https://youtu.be/B_waBkwpMNU?si=Gn7M_9tLJmlulxXW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-56" tvg-name="Diriliş Ertuğrul 56. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 56. Bölüm
+https://youtu.be/3MBaoHHFsrk?si=qNKGuSyazuAgpAfq
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-57" tvg-name="Diriliş Ertuğrul 57. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 57. Bölüm
+https://youtu.be/GI_lyBJ5ruY?si=DoP_cXUcHbjmUze3
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-58" tvg-name="Diriliş Ertuğrul 58. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 58. Bölüm
+https://youtu.be/09qTfdmaHt0?si=HyYyLyhLQcv4lJoJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-59" tvg-name="Diriliş Ertuğrul 59. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 59. Bölüm
+https://youtu.be/ScfKQmrf_n4?si=lWetvrO8s91Ms1WO
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-60" tvg-name="Diriliş Ertuğrul 60. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 60. Bölüm
+https://youtu.be/hks_w5vw7do?si=RSKAbiPhpnCQV8RT
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-61" tvg-name="Diriliş Ertuğrul 61. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 61. Bölüm
+https://youtu.be/7WYD3oSnvXg?si=Kuhtc488w845glTE
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-62" tvg-name="Diriliş Ertuğrul 62. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 62. Bölüm
+https://youtu.be/vJxxQ-M6_6k?si=ajCnvFkiHN4lCsF_
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-63" tvg-name="Diriliş Ertuğrul 63. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 63. Bölüm
+https://youtu.be/Ilm9b-QXkXE?si=n0J_z4sYzTVfMZM9
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-64" tvg-name="Diriliş Ertuğrul 64. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 64. Bölüm
+https://youtu.be/S6S6DTo980k?si=lFTM8ocuc8pkoK1b
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-65" tvg-name="Diriliş Ertuğrul 65. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 65. Bölüm
+https://youtu.be/3rj1B-ibSSs?si=4pRrKWiD_Ilh41Wo
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-66" tvg-name="Diriliş Ertuğrul 66. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 66. Bölüm
+https://youtu.be/53j4uWmaBHM?si=QoNu6UTIUzopgF1u
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-67" tvg-name="Diriliş Ertuğrul 67. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 67. Bölüm
+https://youtu.be/0-Eov3vBfHc?si=dtsY68NamTMDE7oI
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-68" tvg-name="Diriliş Ertuğrul 68. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 68. Bölüm
+https://youtu.be/VZqrIQEaFIQ?si=zKX_vNMzv9b8OKLD
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-69" tvg-name="Diriliş Ertuğrul 69. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 69. Bölüm
+https://youtu.be/Gcd4HIeOY_g?si=bimk3cp7IS3OJ_Rm
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-70" tvg-name="Diriliş Ertuğrul 70. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 70. Bölüm
+https://youtu.be/jd9IRJHP0Ug?si=th7vr3-1uRf2jeyv
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-71" tvg-name="Diriliş Ertuğrul 71. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 71. Bölüm
+https://youtu.be/hqjxZb0lUJM?si=xZr2L3rU1kmM5hGN
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-72" tvg-name="Diriliş Ertuğrul 72. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 72. Bölüm
+https://youtu.be/U1rohBSEK5E?si=HxO_IjH3H9TuT1O1
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-73" tvg-name="Diriliş Ertuğrul 73. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 73. Bölüm
+https://youtu.be/fwe6DQpYWN0?si=iSFnkRdHqQ_F2wkV
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-74" tvg-name="Diriliş Ertuğrul 74. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 74. Bölüm
+https://youtu.be/qqRbrCfgR0Y?si=qDyNP3qlw0H33e2n
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-75" tvg-name="Diriliş Ertuğrul 75. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 75. Bölüm
+https://youtu.be/aKLNtLqWs1w?si=Mv8FvV5xE8n1tSCk
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-76" tvg-name="Diriliş Ertuğrul 76. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 76. Bölüm
+https://youtu.be/TsOzCdxBzBQ?si=JWz7Fld5-aWFn4IZ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-77" tvg-name="Diriliş Ertuğrul 77. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 77. Bölüm
+https://youtu.be/FabSpNJZZYE?si=JNJU7Z05B0iTKQKx
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-78" tvg-name="Diriliş Ertuğrul 78. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 78. Bölüm
+https://youtu.be/f09MJv6W8uw?si=0Rn7EMu6JhMv34EJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-79" tvg-name="Diriliş Ertuğrul 79. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 79. Bölüm
+https://youtu.be/rk91Bf2roQ4?si=tIzjON7QesZLJ8yL
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-80" tvg-name="Diriliş Ertuğrul 80. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 80. Bölüm
+https://youtu.be/_X48rmtlc3M?si=ydFPDjgBCz2pDBav
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-81" tvg-name="Diriliş Ertuğrul 81. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 81. Bölüm
+https://youtu.be/khvPe7sr2Tk?si=bvetOZlBMNpuLTuL
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-82" tvg-name="Diriliş Ertuğrul 82. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 82. Bölüm
+https://youtu.be/uOtVKnM7j1k?si=JUXoKmeaWQ9Bbola
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-83" tvg-name="Diriliş Ertuğrul 83. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 83. Bölüm
+https://youtu.be/1iPULdXhWYY?si=GFN8CkqWnfAJunDg
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-84" tvg-name="Diriliş Ertuğrul 84. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 84. Bölüm
+https://youtu.be/UgnguJfn7Ww?si=btRr_9iUVH2GYxLW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-85" tvg-name="Diriliş Ertuğrul 85. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 85. Bölüm
+https://youtu.be/NVFKtJiB9FA?si=FyjPu9mDf00207z9
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-86" tvg-name="Diriliş Ertuğrul 86. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 86. Bölüm
+https://youtu.be/tr--dhzHRV8?si=VbWyZ5wtuP1Emsbl
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-87" tvg-name="Diriliş Ertuğrul 87. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 87. Bölüm
+https://youtu.be/vD4xwWXKhd0?si=iGOUEY9Jk-D9CeQo
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-88" tvg-name="Diriliş Ertuğrul 88. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 88. Bölüm
+https://youtu.be/uoB3o0Wxwb4?si=SFgvQPk2DvKK8wag
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-89" tvg-name="Diriliş Ertuğrul 89. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 89. Bölüm
+https://youtu.be/8hSsBg3xflc?si=dd-GcKTxa55sF_cb
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-90" tvg-name="Diriliş Ertuğrul 90. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 90. Bölüm
+https://youtu.be/COdF00i3Pc4?si=vwQbgtN8Y8jhLY44
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-91" tvg-name="Diriliş Ertuğrul 91. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 91. Bölüm
+https://youtu.be/pBGrL7R5eI4?si=vBjzOCrZghPT5YZv
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-92" tvg-name="Diriliş Ertuğrul 92. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 92. Bölüm
+https://youtu.be/XiUQX5nfnjU?si=Owr4ZXTOA7o2StoJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-93" tvg-name="Diriliş Ertuğrul 93. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 93. Bölüm
+https://youtu.be/fyJ3_cZEv7U?si=pqZh5JSksRq7X2ym
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-94" tvg-name="Diriliş Ertuğrul 94. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 94. Bölüm
+https://youtu.be/40K_9AMp8fo?si=XIk--bdtsqrq54LR
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-95" tvg-name="Diriliş Ertuğrul 95. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 95. Bölüm
+https://youtu.be/twTDj4jfkMI?si=4n8IIXWieUMdvJkI
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-96" tvg-name="Diriliş Ertuğrul 96. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 96. Bölüm
+https://youtu.be/Pk3kRIHfMFo?si=e_erZexdzuN50d01
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-97" tvg-name="Diriliş Ertuğrul 97. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 97. Bölüm
+https://youtu.be/EtF0dUxCjC8?si=hJcbj5CNPw6RahkU
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-98" tvg-name="Diriliş Ertuğrul 98. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 98. Bölüm
+https://youtu.be/3n4YV81IWss?si=PCMYaIUVPeMutwOK
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-99" tvg-name="Diriliş Ertuğrul 99. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 99. Bölüm
+https://youtu.be/LKWtO-FUdqc?si=he-OofYLbBaxgjEj
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-100" tvg-name="Diriliş Ertuğrul 100. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 100. Bölüm
+https://youtu.be/R4AHwWYHllY?si=DAb-ccZtTN6vluum
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-101" tvg-name="Diriliş Ertuğrul 101. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 101. Bölüm
+https://youtu.be/1u_smoAILHM?si=yD_uHndAttYQmzQv
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-102" tvg-name="Diriliş Ertuğrul 102. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 102. Bölüm
+https://youtu.be/n5L-fi-0ePM?si=bQXKqSXCnnSuvPYd
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-103" tvg-name="Diriliş Ertuğrul 103. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 103. Bölüm
+https://youtu.be/3ZRdvRyhsL0?si=gYzqjNDcb5X1oOiN
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-104" tvg-name="Diriliş Ertuğrul 104. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 104. Bölüm
+https://youtu.be/QYAjhQMjr64?si=XC18COBkU_ShvGfi
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-105" tvg-name="Diriliş Ertuğrul 105. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 105. Bölüm
+https://youtu.be/yWcjpr7-u10?si=s6TKid8oP4Bz1nxP
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-106" tvg-name="Diriliş Ertuğrul 106. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 106. Bölüm
+https://youtu.be/JhWi59NyK8U?si=ajtXo8pqLa9CkaUy
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-107" tvg-name="Diriliş Ertuğrul 107. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 107. Bölüm
+https://youtu.be/eo8rrwro7Z4?si=QFtuVucNjn9hV-D4
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-108" tvg-name="Diriliş Ertuğrul 108. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 108. Bölüm
+https://youtu.be/CSIrD9phhl4?si=0PSMMYEIXUgXXLzj
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-109" tvg-name="Diriliş Ertuğrul 109. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 109. Bölüm
+https://youtu.be/QUzeLkBYo9I?si=ZlfwD8ORp0rQhJHu
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-110" tvg-name="Diriliş Ertuğrul 110. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 110. Bölüm
+https://youtu.be/cy_I4N99eaI?si=IkKQMrXhPzGTKZyW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-111" tvg-name="Diriliş Ertuğrul 111. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 111. Bölüm
+https://youtu.be/4B7fA3Y83OI?si=nuXH_DrbIB_SXkyK
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-112" tvg-name="Diriliş Ertuğrul 112. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 112. Bölüm
+https://youtu.be/J5I0p-nRd0o?si=rIWVQ3Uc0_r38X1C
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-113" tvg-name="Diriliş Ertuğrul 113. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 113. Bölüm
+https://youtu.be/RTeB1w46v0g?si=LwMscfSfsXFmK2Pc
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-114" tvg-name="Diriliş Ertuğrul 114. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 114. Bölüm
+https://youtu.be/c3kXehIHy-o?si=dVa1Ucd4Ps5KR_yb
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-115" tvg-name="Diriliş Ertuğrul 115. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 115. Bölüm
+https://youtu.be/ExjYKJHHkEQ?si=iVG5jSFyUzeW_s9Y
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-116" tvg-name="Diriliş Ertuğrul 116. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 116. Bölüm
+https://youtu.be/2YGjnpoB_gA?si=iBTvyII6TGr7J1Z1
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-117" tvg-name="Diriliş Ertuğrul 117. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 117. Bölüm
+https://youtu.be/sY4r8Cz4mUE?si=xbEHnI_4_SNPHn7j
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-118" tvg-name="Diriliş Ertuğrul 118. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 118. Bölüm
+https://youtu.be/OYJ_uf1Fu5k?si=f6ddmOD-R-IApp5p
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-119" tvg-name="Diriliş Ertuğrul 119. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 119. Bölüm
+https://youtu.be/DWg7yN18YKM?si=8iDWTtcLnf0BPpoA
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-120" tvg-name="Diriliş Ertuğrul 120. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 120. Bölüm
+https://youtu.be/wEPxoVe-i9s?si=o2dO3qq7LaXOeJZQ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-121" tvg-name="Diriliş Ertuğrul 121. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 121. Bölüm
+https://youtu.be/z5DZcK8bkhA?si=3DGdn673Yx8tIGd9
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-122" tvg-name="Diriliş Ertuğrul 122. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 122. Bölüm
+https://youtu.be/Bpf_SCjgpgs?si=KB2ZgVlfqFvbeutW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-123" tvg-name="Diriliş Ertuğrul 123. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 123. Bölüm
+https://youtu.be/OG-u4XmLrg0?si=1ZZT9VfUmNzuMWne
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-124" tvg-name="Diriliş Ertuğrul 124. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 124. Bölüm
+https://youtu.be/lSOPOOHLeJg?si=D1YkGQUnG_2UDMVz
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-125" tvg-name="Diriliş Ertuğrul 125. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 125. Bölüm
+https://youtu.be/4p_qBL-oZyA?si=LFwjzxxJL1xpLv80
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-126" tvg-name="Diriliş Ertuğrul 126. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 126. Bölüm
+https://youtu.be/8e70TvgAdrc?si=xB5yesTF8NMObdnp
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-127" tvg-name="Diriliş Ertuğrul 127. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 127. Bölüm
+https://youtu.be/f6IkSalJVm4?si=BqJo1tL5u5ZsWxF5
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-128" tvg-name="Diriliş Ertuğrul 128. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 128. Bölüm
+https://youtu.be/cVJ8CdPAKMo?si=lZQrNvHK-bj2z0RD
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-129" tvg-name="Diriliş Ertuğrul 129. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 129. Bölüm
+https://youtu.be/Mb81EJxeerg?si=lib6ijnM-FD4P2r1
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-130" tvg-name="Diriliş Ertuğrul 130. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 130. Bölüm
+https://youtu.be/96-pvsIofAg?si=YVg0z9VKRksVgCaB
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-131" tvg-name="Diriliş Ertuğrul 131. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 131. Bölüm
+https://youtu.be/LqM5BHSZamY?si=H3cAdkv011wbO9CJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-132" tvg-name="Diriliş Ertuğrul 132. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 132. Bölüm
+https://youtu.be/_KhNdzXDMAI?si=sqfpFdREkd_Hfqt8
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-133" tvg-name="Diriliş Ertuğrul 133. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 133. Bölüm
+https://youtu.be/XZddH7UB-wQ?si=2DLumOJaHJqFiyb9
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-134" tvg-name="Diriliş Ertuğrul 134. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 134. Bölüm
+https://youtu.be/yMC_RSOM7u8?si=hgtKtk2dOHQu18Zi
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-135" tvg-name="Diriliş Ertuğrul 135. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 135. Bölüm
+https://youtu.be/gUWjBkQxAR8?si=NQGs1s24KxaZ1Y9Q
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-136" tvg-name="Diriliş Ertuğrul 136. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 136. Bölüm
+https://youtu.be/IsHZHJp8f5k?si=e-WOzyDMuygChmX2
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-137" tvg-name="Diriliş Ertuğrul 137. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 137. Bölüm
+https://youtu.be/DH7d2eti_90?si=60SzSZirsYja0pqF
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-138" tvg-name="Diriliş Ertuğrul 138. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 138. Bölüm
+https://youtu.be/uyv4yGElXzw?si=q7e-pzuNCudxyTqJ
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-139" tvg-name="Diriliş Ertuğrul 139. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 139. Bölüm
+https://youtu.be/yRT8JI7I-AI?si=8oluk2KqjB2eYkPq
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-140" tvg-name="Diriliş Ertuğrul 140. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 140. Bölüm
+https://youtu.be/Qpc4_JnhzsY?si=vaPVZ9Ppvtwwof-a
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-141" tvg-name="Diriliş Ertuğrul 141. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 141. Bölüm
+https://youtu.be/t1UChkaVdIM?si=UT886MNFecowZkO0
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-142" tvg-name="Diriliş Ertuğrul 142. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 142. Bölüm
+https://youtu.be/ZMZ3sOTvBL0?si=Mj0ObrMCsFCsfEKW
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-143" tvg-name="Diriliş Ertuğrul 143. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 143. Bölüm
+https://youtu.be/Pv-0pXYicM0?si=UdSqMJmcrJ0SngKS
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-144" tvg-name="Diriliş Ertuğrul 144. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 144. Bölüm
+https://youtu.be/PPd06il_7wc?si=6wCl-TDEPgsj07Y3
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-145" tvg-name="Diriliş Ertuğrul 145. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 145. Bölüm
+https://youtu.be/CzGhdzEFhOg?si=JkC39IbF0G96uH-f
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-146" tvg-name="Diriliş Ertuğrul 146. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 146. Bölüm
+https://youtu.be/0R0Ew1fO8Fk?si=AREr3FlIe029My0L
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-147" tvg-name="Diriliş Ertuğrul 147. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 147. Bölüm
+https://youtu.be/ODZE5MURBz8?si=U_RVhNbxyg1aAkj2
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-148" tvg-name="Diriliş Ertuğrul 148. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 148. Bölüm
+https://youtu.be/5ML0O9dbbY8?si=x85vhnXyRA6OUUyc
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-149" tvg-name="Diriliş Ertuğrul 149. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 149. Bölüm
+https://youtu.be/eijZPI8p9vc?si=MDCM-J5zNvLB4_ab
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-150" tvg-name="Diriliş Ertuğrul 150. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 150. Bölüm
+https://youtu.be/9lOZ7e-iQ9o?si=ilGeTH6FY2gEUk53
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-151" tvg-name="Diriliş Ertuğrul 151. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 151. Bölüm
+https://youtu.be/glefGFprZmE?si=XWxUqHHuXq3HAOti
+#EXTINF:-1 tvg-id="DIRILIS-ERTUGRUL-152" tvg-name="Diriliş Ertuğrul 152. Bölüm" tvg-logo="https://www.impawards.com/intl/turkey/tv/posters/dirilis_ertugrul_ver26.jpg" group-title="Diziler",Diriliş Ertuğrul 152. Bölüm
+https://youtu.be/g2iBGZASkEY?si=lDXZORj9EhDczL4u
