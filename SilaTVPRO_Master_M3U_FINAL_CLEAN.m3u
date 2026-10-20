@@ -88815,3 +88815,37 @@ https://www.youtube.com/watch?v=YBDT6tNx6sM
 https://www.youtube.com/watch?v=UK-9sOkg-BM
 #EXTINF:-1 tvg-id="Heidi.lvYD0BvoQpQ" tvg-name="Heidi TEST" tvg-logo="https://i.ytimg.com/vi/lvYD0BvoQpQ/hqdefault.jpg" group-title="🎥 YOUTUBE BELGESELLERİ" tvg-type="movie" tvg-trailer="https://www.youtube.com/watch?v=lvYD0BvoQpQ" description="Heidi; Çizgi Film; TEST; Kaynak: YouTube",Heidi TEST
 https://www.youtube.com/watch?v=lvYD0BvoQpQ
+
+# ===== SILATV PRO: YENI YABANCI CANLI TV GRUPLARI (EK KOPYA) =====
+#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",Cgtn
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",LOVE NATURE>
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",NATURE TIME>
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
+#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",OutSide
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",RtDoc
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",WildEarth>
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 group-title="🌍 YABANCI | HABER",Alarabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="ALJAZARA en>NORMAL PLAYER" tvg-name="ALJAZARA en>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",ALJAZARA en>
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="🌍 YABANCI | HABER",NewsMax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 group-title="🌍 YABANCI | HABER",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 tvg-id="REUTERS>NORMAL PLAYER" tvg-name="REUTERS>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",REUTERS>
+https://shr.pn/YZ1I
+#EXTINF:-1 group-title="🌍 YABANCI | HABER",SkyNews
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-id="Syria TV>NORMAL PLAYER" tvg-name="Syria TV>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",Syria TV>
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="ZAROK TV" group-title="🌍 YABANCI | ÇOCUK",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
