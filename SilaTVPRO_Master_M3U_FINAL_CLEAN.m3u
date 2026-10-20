@@ -88816,36 +88816,257 @@ https://www.youtube.com/watch?v=UK-9sOkg-BM
 #EXTINF:-1 tvg-id="Heidi.lvYD0BvoQpQ" tvg-name="Heidi TEST" tvg-logo="https://i.ytimg.com/vi/lvYD0BvoQpQ/hqdefault.jpg" group-title="🎥 YOUTUBE BELGESELLERİ" tvg-type="movie" tvg-trailer="https://www.youtube.com/watch?v=lvYD0BvoQpQ" description="Heidi; Çizgi Film; TEST; Kaynak: YouTube",Heidi TEST
 https://www.youtube.com/watch?v=lvYD0BvoQpQ
 
-# ===== SILATV PRO: YENI YABANCI CANLI TV GRUPLARI (EK KOPYA) =====
-#EXTINF:-1 tvg-id="Cgtn>NORMAL PLAYER" tvg-name="Cgtn>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",Cgtn
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="China Travel>NORMAL PLAYER" tvg-name="China Travel>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",China Travel
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="DocuBox>NORMAL PLAYER" tvg-name="DocuBox>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",DocuBox
-https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Film_reel_icon.svg" tvg-id="LOVE NATURE>NORMAL PLAYER" tvg-name="LOVE NATURE>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",LOVE NATURE>
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="NATURE TIME>NORMAL PLAYER" tvg-name="NATURE TIME>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",NATURE TIME>
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
-#EXTINF:-1 tvg-id="OutSide>NORMAL PLAYER" tvg-name="OutSide>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",OutSide
-https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RtDoc>NORMAL PLAYER" tvg-name="RtDoc>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",RtDoc
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth>NORMAL PLAYER" tvg-name="WildEarth>NORMAL PLAYER" group-title="🌍 YABANCI | BELGESEL",WildEarth>
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="🌍 YABANCI | HABER",Alarabiya English
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ALJAZARA en>NORMAL PLAYER" tvg-name="ALJAZARA en>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",ALJAZARA en>
-https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="🌍 YABANCI | HABER",NewsMax
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 group-title="🌍 YABANCI | HABER",Reuters
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
-#EXTINF:-1 tvg-id="REUTERS>NORMAL PLAYER" tvg-name="REUTERS>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",REUTERS>
-https://shr.pn/YZ1I
-#EXTINF:-1 group-title="🌍 YABANCI | HABER",SkyNews
-https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
-#EXTINF:-1 tvg-id="Syria TV>NORMAL PLAYER" tvg-name="Syria TV>NORMAL PLAYER" group-title="🌍 YABANCI | HABER",Syria TV>
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="ZAROK TV" group-title="🌍 YABANCI | ÇOCUK",ZAROK TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+# ================================================================
+# AceStream (foreign) channels appended by integration - do not edit above
+# ================================================================
+# ---- AceStream | Sports (53) ----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_1_logo.svg" tvg-id="Eurosport 1[PL]>Ace" tvg-name="Eurosport 1[PL]>Ace" group-title="AceStream | Sports",Eurosport 1[PL]>Ace
+http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f&pid=41458
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_1_logo.svg" tvg-id="Eurosport 1[RU-EN]>Ace" tvg-name="Eurosport 1[RU-EN]>Ace" group-title="AceStream | Sports",Eurosport 1[RU-EN]>Ace
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&pid=46923
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_1_logo.svg" tvg-id="Eurosport 2[DE]>Ace" tvg-name="Eurosport 2[DE]>Ace" group-title="AceStream | Sports",Eurosport 2[DE]>Ace
+http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6&pid=16422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Eurosport_1_logo.svg" tvg-id="Eurosport 2[RU]>Ace" tvg-name="Eurosport 2[RU]>Ace" group-title="AceStream | Sports",Eurosport 2[RU]>Ace
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&pid=2763
+#EXTINF:-1 tvg-name="Arena Sport 1" group-title="AceStream | Sports",Arena Sport 1
+http://127.0.0.1:6878/ace/getstream?infohash=72f6ea47e32f2cd167ece4d36515d8314b5f0b12&pid=150
+#EXTINF:-1 tvg-name="Arena Sport 2" group-title="AceStream | Sports",Arena Sport 2
+http://127.0.0.1:6878/ace/getstream?infohash=2f05492fc97b6b93e09cd17ce69f8a7333ca6f8c&pid=151
+#EXTINF:-1 tvg-name="BeIN Sports 1 [BE]" group-title="AceStream | Sports",BeIN Sports 1 [BE]
+http://127.0.0.1:6878/ace/getstream?infohash=58e454d067b9e25e40f3c62b3430b55ef6fead09&pid=218
+#EXTINF:-1 tvg-name="BeIN Sports 2 [BE]" group-title="AceStream | Sports",BeIN Sports 2 [BE]
+http://127.0.0.1:6878/ace/getstream?infohash=fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac&pid=219
+#EXTINF:-1 tvg-name="BeIN Sports 3 [BE]" group-title="AceStream | Sports",BeIN Sports 3 [BE]
+http://127.0.0.1:6878/ace/getstream?infohash=519c2159e9228bfe2f94911dfa111b01d0a896e2&pid=220
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="AceStream | Sports",beIN SPORTS XTRA
+http://127.0.0.1:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685&pid=226
+#EXTINF:-1 tvg-name="BT Sport / ESPN [UK]" group-title="AceStream | Sports",BT Sport / ESPN [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915&pid=249
+#EXTINF:-1 tvg-name="BT Sport 1 [UK]" group-title="AceStream | Sports",BT Sport 1 [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa&pid=250
+#EXTINF:-1 tvg-name="BT Sport 2 [UK]" group-title="AceStream | Sports",BT Sport 2 [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c&pid=251
+#EXTINF:-1 tvg-name="BT Sport 3 [UK]" group-title="AceStream | Sports",BT Sport 3 [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec&pid=252
+#EXTINF:-1 tvg-name="CANAL+ SPORT" group-title="AceStream | Sports",CANAL+ SPORT
+http://127.0.0.1:6878/ace/getstream?infohash=108b33a44b6ab295f6301d0a2c433a1ef330d5a4&pid=272
+#EXTINF:-1 tvg-name="Canal+ Sport 2 HD [PL]" group-title="AceStream | Sports",Canal+ Sport 2 HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=9bd91396b4418ae7c8eed7b8a6964eb8a43de204&pid=275
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3" group-title="AceStream | Sports",CANAL+ SPORT 3
+http://127.0.0.1:6878/ace/getstream?infohash=61b151415b92d386fc8c167214bf444248dca18a&pid=276
+#EXTINF:-1 tvg-name="Canal+ Sport 3 PL" group-title="AceStream | Sports",Canal+ Sport 3 PL
+http://127.0.0.1:6878/ace/getstream?infohash=b3f2b59e44fe70f45dca643107f88b6fcff80672&pid=278
+#EXTINF:-1 tvg-name="CANAL+ Sport 4 [PL]" group-title="AceStream | Sports",CANAL+ Sport 4 [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=9010f93e90063729f875a05db7b899fd892deadc&pid=279
+#EXTINF:-1 tvg-name="DAZN 1 Bar HD [DE]" group-title="AceStream | Sports",DAZN 1 Bar HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4&pid=348
+#EXTINF:-1 tvg-name="DAZN 2 Bar HD [DE]" group-title="AceStream | Sports",DAZN 2 Bar HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6&pid=350
+#EXTINF:-1 tvg-name="DAZN F1 HD" group-title="AceStream | Sports",DAZN F1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30&pid=358
+#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="AceStream | Sports",DAZN LaLiga
+http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a&pid=360
+#EXTINF:-1 tvg-name="ESPN 2" group-title="AceStream | Sports",ESPN 2
+http://127.0.0.1:6878/ace/getstream?infohash=afaa0e6c8ae61286f9736af2ba65a849f98ac107&pid=425
+#EXTINF:-1 tvg-name="ESPN 4 [BE]" group-title="AceStream | Sports",ESPN 4 [BE]
+http://127.0.0.1:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f&pid=427
+#EXTINF:-1 tvg-name="ESPN HD [US]" group-title="AceStream | Sports",ESPN HD [US]
+http://127.0.0.1:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45&pid=428
+#EXTINF:-1 tvg-name="Eurosport [PL]" group-title="AceStream | Sports",Eurosport [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=d74bdd567469ed170b670db8b8947061e964fb84&pid=440
+#EXTINF:-1 tvg-name="Golf Channel [PL]" group-title="AceStream | Sports",Golf Channel [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=300544e1849abdc6ec0a43554efe5fa52490cd8b&pid=517
+#EXTINF:-1 tvg-name="NBA TV [US]" group-title="AceStream | Sports",NBA TV [US]
+http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&pid=768
+#EXTINF:-1 tvg-name="NHL" group-title="AceStream | Sports",NHL
+http://127.0.0.1:6878/ace/getstream?infohash=2a685561a8c29c02e99a31e27ecf1382ace342b7&pid=781
+#EXTINF:-1 tvg-name="Polsat Sport [PL]" group-title="AceStream | Sports",Polsat Sport [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=5fc250f907b3bce0eda3caeb5cf86888e600b262&pid=881
+#EXTINF:-1 tvg-name="Polsat Sport Extra [PL]" group-title="AceStream | Sports",Polsat Sport Extra [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=f0beebc90853dc8342691a85539b5efbe0e94c1e&pid=882
+#EXTINF:-1 tvg-name="Polsat Sport Fight [PL]" group-title="AceStream | Sports",Polsat Sport Fight [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=7438702963ad27eab81ee25634eac24f541083a4&pid=883
+#EXTINF:-1 tvg-name="Polsat Sport Premium 1 [PL]" group-title="AceStream | Sports",Polsat Sport Premium 1 [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=58b193890946b099a7d2c7dca37a48b36a12467f&pid=884
+#EXTINF:-1 tvg-name="Polsat Sport Premium 2 [PL]" group-title="AceStream | Sports",Polsat Sport Premium 2 [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=70ba32a661dc71ac3008f2bcb8aa202c5514f4e3&pid=885
+#EXTINF:-1 tvg-name="SETANTA SPORT 1 HD" group-title="AceStream | Sports",SETANTA SPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=e835c3a3d2c9f9543f8197eae6283e96766c4fe3&pid=1054
+#EXTINF:-1 tvg-name="SETANTA SPORT 2 HD" group-title="AceStream | Sports",SETANTA SPORT 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=61c3a98f48ee41056f8e5517063fa741e7536886&pid=1055
+#EXTINF:-1 tvg-name="Sky Sport 1 HD [DE]" group-title="AceStream | Sports",Sky Sport 1 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=00c505e3e33687ecac47ef2a555497e66ebdc5af&pid=1088
+#EXTINF:-1 tvg-name="Sky Sport 2 HD [DE]" group-title="AceStream | Sports",Sky Sport 2 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac&pid=1089
+#EXTINF:-1 tvg-name="Sky Sport F1 [DE]" group-title="AceStream | Sports",Sky Sport F1 [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2&pid=1090
+#EXTINF:-1 tvg-name="Sky Sport News [DE]" group-title="AceStream | Sports",Sky Sport News [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=769777a873e3649a22ac4482b19685c0fd1bfcf3&pid=1091
+#EXTINF:-1 tvg-name="Sky Sports Arena [UK]" group-title="AceStream | Sports",Sky Sports Arena [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b&pid=1092
+#EXTINF:-1 tvg-name="Sky Sports Cricket [UK]" group-title="AceStream | Sports",Sky Sports Cricket [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29&pid=1093
+#EXTINF:-1 tvg-name="Sky Sports Football [UK]" group-title="AceStream | Sports",Sky Sports Football [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d58f87&pid=1094
+#EXTINF:-1 tvg-name="Sky Sports Main Event [UK]" group-title="AceStream | Sports",Sky Sports Main Event [UK]
+http://127.0.0.1:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&pid=1096
+#EXTINF:-1 tvg-name="Sport Klub [PL]" group-title="AceStream | Sports",Sport Klub [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=14594b3c9520715e48756cb7258e102c5e48c29c&pid=1118
+#EXTINF:-1 tvg-name="Tennis Channel HD" group-title="AceStream | Sports",Tennis Channel HD
+http://127.0.0.1:6878/ace/getstream?infohash=1b348443efc7f0cf4cdf349ac35bbe5d41be6220&pid=1157
+#EXTINF:-1 tvg-name="TVP Sport HD [PL]" group-title="AceStream | Sports",TVP Sport HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5&pid=1258
+#EXTINF:-1 tvg-name="UFC HD [RU]" group-title="AceStream | Sports",UFC HD [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=72b8c093be3c3e3c434c723ee93af0d1d07a7cbf&pid=1263
+#EXTINF:-1 tvg-name="VIASAT SPORT HD [RU]" group-title="AceStream | Sports",VIASAT SPORT HD [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=f6b7553df66ac4bffd4b3ead443b647322d1a7e0&pid=1297
+#EXTINF:-1 tvg-name="Ziggo Sport" group-title="AceStream | Sports",Ziggo Sport
+http://127.0.0.1:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c&pid=1337
+#EXTINF:-1 tvg-name="Ziggo Sport 2" group-title="AceStream | Sports",Ziggo Sport 2
+http://127.0.0.1:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c&pid=1338
+#EXTINF:-1 tvg-name="Ziggo Sport 6" group-title="AceStream | Sports",Ziggo Sport 6
+http://127.0.0.1:6878/ace/getstream?infohash=c81fe6504175b77b4345a3e8b740aba1e3bf60dc&pid=1339
+# ---- AceStream | Documentary (20) ----
+#EXTINF:-1 tvg-id="BBC EART>Ace" tvg-name="BBC EART>Ace" group-title="AceStream | Documentary",BBC EART>Ace
+http://127.0.0.1:6878/ace/getstream?id=95e8ae652b5f5fa653be611aaac2f736dcf67ba2&pid=5172
+#EXTINF:-1 tvg-id="Canel+ Document>Ace" tvg-name="Canel+ Document>Ace" group-title="AceStream | Documentary",Canel+ Document>Ace
+http://127.0.0.1:6878/ace/getstream?infohash=e1d1deb71ac36ed0b472654738ce91d11ae8ac5d&pid=328
+#EXTINF:-1 tvg-id="CS HİSTORY>Ace" tvg-name="CS HİSTORY>Ace" group-title="AceStream | Documentary",CS HİSTORY>Ace
+http://127.0.0.1:6878/ace/getstream?infohash=a4678bc9f68c1da37c57fec8d822f80b82cd5af6&pid=411
+#EXTINF:-1 tvg-id="DMAX[DE]>Ace" tvg-name="DMAX[DE]>Ace" group-title="AceStream | Documentary",DMAX[DE]>Ace
+http://127.0.0.1:6878/ace/getstream?infohash=46b0745f35cbc125ba35d4f363c0080164cc783b&pid=480
+#EXTINF:-1 tvg-id="H2[RU]>Ace" tvg-name="H2[RU]>Ace" group-title="AceStream | Documentary",H2[RU]>Ace
+http://127.0.0.1:6878/ace/getstream?infohash=259cb14a1a9178a6b3f8228b25c057e0f1463ce7&pid=643
+#EXTINF:-1 tvg-id="HISTORY[ukkzenru]>Ace" tvg-name="HISTORY[ukkzenru]>Ace" group-title="AceStream | Documentary",HISTORY[ukkzenru]>Ace
+http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&pid=6647
+#EXTINF:-1 tvg-id="VİASAT EXPLORE[PL]>Ace" tvg-name="VİASAT EXPLORE[PL]>Ace" group-title="AceStream | Documentary",VİASAT EXPLORE[PL]>Ace
+http://127.0.0.1:6878/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4&pid=15838
+#EXTINF:-1 tvg-name="Animal Planet HD [PL]" group-title="AceStream | Documentary",Animal Planet HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=3c2590e3d167e159115d4a63b25d371f6eeae7c0&pid=144
+#EXTINF:-1 tvg-name="BBC Earth HD [PL]" group-title="AceStream | Documentary",BBC Earth HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=7440a7b3192b265fec805a1809fc8ddf24f26b3a&pid=178
+#EXTINF:-1 tvg-name="Discovery HD [RU]" group-title="AceStream | Documentary",Discovery HD [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=6477d56108d979adf1a069b26c820e749b94b9da&pid=380
+#EXTINF:-1 tvg-name="Discovery Historia [PL]" group-title="AceStream | Documentary",Discovery Historia [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=646241887556766d24e7ac140747ec0cb6ed0ca3&pid=381
+#EXTINF:-1 tvg-name="Discovery Life [PL]" group-title="AceStream | Documentary",Discovery Life [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=d52da2ee894e43a619bd5cce060a82b0e71ee78e&pid=382
+#EXTINF:-1 tvg-name="Discovery Science [PL]" group-title="AceStream | Documentary",Discovery Science [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=90e7dc51dc182fc2bb3238a72ed90a5d63a2487f&pid=383
+#EXTINF:-1 tvg-name="Discovery Turbo Xtra [PL]" group-title="AceStream | Documentary",Discovery Turbo Xtra [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=021f4d30da6113361af592dc53d255d8dc485f53&pid=384
+#EXTINF:-1 tvg-name="Love Nature 4K [RU]" group-title="AceStream | Documentary",Love Nature 4K [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=640
+#EXTINF:-1 tvg-name="National Geographic HD [PL]" group-title="AceStream | Documentary",National Geographic HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=4e9d5f394d5b352866303764dd2e97efe2f279b6&pid=766
+#EXTINF:-1 tvg-name="Viasat Explore [RU]" group-title="AceStream | Documentary",Viasat Explore [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=361e2b2f24d617ed599dc354180c80cd1705f5c0&pid=1289
+#EXTINF:-1 tvg-name="Viasat Explorer [PL]" group-title="AceStream | Documentary",Viasat Explorer [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=a1b443745c09a6a2ff69aae7529f34bcce5bb67e&pid=1290
+#EXTINF:-1 tvg-name="Viasat history" group-title="AceStream | Documentary",Viasat history
+http://127.0.0.1:6878/ace/getstream?infohash=51be9aaf2356226b1a72127bde336ba109c4f259&pid=1291
+#EXTINF:-1 tvg-name="Viasat Nature/History HD [RU]" group-title="AceStream | Documentary",Viasat Nature/History HD [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b&pid=1296
+# ---- AceStream | News (12) ----
+#EXTINF:-1 tvg-id="CNN us>ace" tvg-name="CNN us>ace" group-title="AceStream | News",CNN us>ace
+http://127.0.0.1:6878/ace/getstream?infohash=04f3e6773c11ab733be1be222e62953fb31ecb5f&pid=396
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher>Ace" tvg-name="Al Jazeera Mubasher>Ace" group-title="AceStream | News",Al Jazeera Mubasher>Ace
+http://127.0.0.1:6878/ace/getstream?id=96649848c3937ec859dc45eabb4bae2a453080de&pid=19764
+#EXTINF:-1 tvg-id="Al Jazeere(1)>Ace" tvg-name="Al Jazeere(1)>Ace" group-title="AceStream | News",Al Jazeere(1)>Ace
+http://127.0.0.1:6878/ace/getstream?id=a758edbaccfc91b6c6252f8e135c5837ae368e14&pid=18275
+#EXTINF:-1 tvg-id="Al Jazeere(2)>Ace" tvg-name="Al Jazeere(2)>Ace" group-title="AceStream | News",Al Jazeere(2)>Ace
+http://127.0.0.1:6878/ace/getstream?id=1d80e9ebe2109869a7ea3ebac57d9b5ba0988b0a&pid=12717
+#EXTINF:-1 tvg-name="Bloomberg USA EN" group-title="AceStream | News",Bloomberg USA EN
+http://127.0.0.1:6878/ace/getstream?infohash=51a0817e35b3824401fd1a1c1ec3c8a61330ebfa&pid=233
+#EXTINF:-1 tvg-name="CBS News USA EN" group-title="AceStream | News",CBS News USA EN
+http://127.0.0.1:6878/ace/getstream?infohash=85932bd4cefd5832c9478170c7558a5c087d0d38&pid=287
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="AceStream | News",Channel News Asia
+http://127.0.0.1:6878/ace/getstream?infohash=af225221544ce3f88c11057fc79dbc721a210e5e&pid=296
+#EXTINF:-1 tvg-name="CNBC Indonesia" group-title="AceStream | News",CNBC Indonesia
+http://127.0.0.1:6878/ace/getstream?infohash=cde83f109c4b661a434e1316c0b602b13f106546&pid=314
+#EXTINF:-1 tvg-name="CNN INDONESIA HD" group-title="AceStream | News",CNN INDONESIA HD
+http://127.0.0.1:6878/ace/getstream?infohash=8262000a94442fe440c835c9abece1e763d862ee&pid=319
+#EXTINF:-1 tvg-name="CNN Prima" group-title="AceStream | News",CNN Prima
+http://127.0.0.1:6878/ace/getstream?infohash=c91629fb658ebcc66f0c2a9fffe68769015ee06f&pid=320
+#EXTINF:-1 tvg-name="EuroNews [RU]" group-title="AceStream | News",EuroNews [RU]
+http://127.0.0.1:6878/ace/getstream?infohash=f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf&pid=437
+#EXTINF:-1 tvg-name="GE: EuroNews" group-title="AceStream | News",GE: EuroNews
+http://127.0.0.1:6878/ace/getstream?infohash=01c082a8252615062be4c42939e0c57e11291ee7&pid=497
+# ---- AceStream | Movies (22) ----
+#EXTINF:-1 tvg-name="AMC HD" group-title="AceStream | Movies",AMC HD
+http://127.0.0.1:6878/ace/getstream?infohash=b30c0243070267959e999438c9e52ca5fd1214fb&pid=133
+#EXTINF:-1 tvg-name="AXN Black [PL]" group-title="AceStream | Movies",AXN Black [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=e7fbcdd24e900851b8e3f30870021909c151c953&pid=165
+#EXTINF:-1 tvg-name="AXN Movies Spain" group-title="AceStream | Movies",AXN Movies Spain
+http://127.0.0.1:6878/ace/getstream?infohash=e075d960a5dc90c4acebe1b8060d8f29a525310b&pid=168
+#EXTINF:-1 tvg-name="AXN White [PL]" group-title="AceStream | Movies",AXN White [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=63d23df52a993c03048510a119579d7440b824fb&pid=169
+#EXTINF:-1 tvg-name="Canal+ Film HD [PL]" group-title="AceStream | Movies",Canal+ Film HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=8d0ccd440018e147b748f5751c642a420725686f&pid=269
+#EXTINF:-1 tvg-name="Cinemax 2 HD" group-title="AceStream | Movies",Cinemax 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=4434075114efa4f15249cfcba18d80052aa50f55&pid=307
+#EXTINF:-1 tvg-name="Cinemax HD" group-title="AceStream | Movies",Cinemax HD
+http://127.0.0.1:6878/ace/getstream?infohash=ab007f4b9077edfdcff64c4c814fa76caeb8a31b&pid=308
+#EXTINF:-1 tvg-name="FilmBox Action [PL]" group-title="AceStream | Movies",FilmBox Action [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=63734a3cbb39dec614a33085b904088101fde04d&pid=468
+#EXTINF:-1 tvg-name="Filmbox Arthouse [PL]" group-title="AceStream | Movies",Filmbox Arthouse [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=369242a1d4d5957d66daa0b10547e010cfd89782&pid=469
+#EXTINF:-1 tvg-name="FilmBox Premium [PL]" group-title="AceStream | Movies",FilmBox Premium [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=73c3e8800c6b851710f13869fc2522ff45464a28&pid=475
+#EXTINF:-1 tvg-name="HBO 2 HD" group-title="AceStream | Movies",HBO 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=0f2984dfd4c8afb5a3d3a51abb4ca3d0b954e037&pid=528
+#EXTINF:-1 tvg-name="HBO 3 HD" group-title="AceStream | Movies",HBO 3 HD
+http://127.0.0.1:6878/ace/getstream?infohash=2983149d50495867b3cf653aff6ebe1a8ae02f24&pid=530
+#EXTINF:-1 tvg-name="HBO HD" group-title="AceStream | Movies",HBO HD
+http://127.0.0.1:6878/ace/getstream?infohash=4dadfab351d453ec18becf57a5a9199e8e5b88e8&pid=532
+#EXTINF:-1 tvg-name="Paramount Channel HD [PL]" group-title="AceStream | Movies",Paramount Channel HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=64b7d92620dc66184528faa495fbac8bea9b1eec&pid=844
+#EXTINF:-1 tvg-name="Polsat Film HD [PL]" group-title="AceStream | Movies",Polsat Film HD [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=f150493892e18605c5bf76984b87044f31562b6b&pid=874
+#EXTINF:-1 tvg-name="Sky Cinema Action HD [DE]" group-title="AceStream | Movies",Sky Cinema Action HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=167b439ae4fd189c348e6588c1aab07346435716&pid=1076
+#EXTINF:-1 tvg-name="Sky Cinema Classics [DE]" group-title="AceStream | Movies",Sky Cinema Classics [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=ffa4be710467fa630ad9fa1bb9f06b3dd166387b&pid=1077
+#EXTINF:-1 tvg-name="Sky Cinema Family [DE]" group-title="AceStream | Movies",Sky Cinema Family [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=c85a6e5f6edb72c33aee67fcf294a62114911f6a&pid=1078
+#EXTINF:-1 tvg-name="Sky Cinema Premieren HD [DE]" group-title="AceStream | Movies",Sky Cinema Premieren HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=cf3db052c1bc48dd5c9e55c5b443d494ca277700&pid=1079
+#EXTINF:-1 tvg-name="Sky Cinema Special HD [DE]" group-title="AceStream | Movies",Sky Cinema Special HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=07793c990e158208c29207faecb10769595beeea&pid=1080
+#EXTINF:-1 tvg-name="Warner TV Film [DE]" group-title="AceStream | Movies",Warner TV Film [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=c250de1c096fa5931169d9565cfa4302776644e5&pid=1313
+#EXTINF:-1 group-title="AceStream | Movies",MyTime movie network (Mexico)
+http://127.0.0.1:6878/ace/getstream?infohash=d50c0ac931cb2b03dcef858b90e2c6e0e2a79daf&pid=753
+# ---- AceStream | Germany (3) ----
+#EXTINF:-1 tvg-name="Boomerang [DE]" group-title="AceStream | Germany",Boomerang [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=6e639532a9d4b0f451112393abeedb2a271b2b15&pid=237
+#EXTINF:-1 tvg-name="Disney HD [DE]" group-title="AceStream | Germany",Disney HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=3b478c7e9118048ee50f6d274f0b2ab17aa684b1&pid=388
+#EXTINF:-1 tvg-name="DELUXE MUSIC HD [DE]" group-title="AceStream | Germany",DELUXE MUSIC HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=f29369be736fb9b77a27bf6240b162d8405cb0f7&pid=370
+# ---- AceStream | Spain (3) ----
+#EXTINF:-1 tvg-name="BABY TV Spain" group-title="AceStream | Spain",BABY TV Spain
+http://127.0.0.1:6878/ace/getstream?infohash=09332d8389c7c7371e991b850fb1943e3dbb795c&pid=173
+#EXTINF:-1 tvg-name="Disney Junior Spain" group-title="AceStream | Spain",Disney Junior Spain
+http://127.0.0.1:6878/ace/getstream?infohash=cb04322b2d0a99c42b275284dcf2c4529becc4e2&pid=390
+#EXTINF:-1 tvg-name="MTV Spain" group-title="AceStream | Spain",MTV Spain
+http://127.0.0.1:6878/ace/getstream?infohash=4d68c789f86376ac12b447e9bcab85af99378ff9&pid=736
+# ---- AceStream | Other Foreign (9) ----
+#EXTINF:-1 tvg-id="Al-ZAHRA>Ace" tvg-name="Al-ZAHRA>Ace" group-title="AceStream | Other Foreign",Al-ZAHRA>Ace
+http://127.0.0.1:6878/ace/getstream?id=3b751d11c113824918e77d9d45fbd123fd3cb9e9&pid=48366
+#EXTINF:-1 tvg-name="Nick Jr [PL]" group-title="AceStream | Other Foreign",Nick Jr [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=55827fdab6ab3a196149615401dbf35c78c4a497&pid=782
+#EXTINF:-1 tvg-name="Nickelodeon Polska [PL]" group-title="AceStream | Other Foreign",Nickelodeon Polska [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=d0cf9952ca3c1947409d935754e1090439c6786f&pid=784
+#EXTINF:-1 tvg-name="MTV Music Polska [PL]" group-title="AceStream | Other Foreign",MTV Music Polska [PL]
+http://127.0.0.1:6878/ace/getstream?infohash=cca0918eb3786a19c92b53e56f79209a7f36b450&pid=735
+#EXTINF:-1 group-title="AceStream | Other Foreign",Chile 5 FTA
+http://127.0.0.1:6878/ace/getstream?infohash=374eb6ec2a754c681565322a1516f26f808e6059&pid=299
+#EXTINF:-1 group-title="AceStream | Other Foreign",El Pinguino (Punta Arenas)
+http://127.0.0.1:6878/ace/getstream?infohash=59f41dbd4dca0e4547408448eef1be3094129f69&pid=411
+#EXTINF:-1 group-title="AceStream | Other Foreign",Holvoet TV Chile
+http://127.0.0.1:6878/ace/getstream?infohash=1be8e36666c5cbf5f48bdc347deec270c6d12e52&pid=552
+#EXTINF:-1 group-title="AceStream | Other Foreign",Pinguino multimedia Chile
+http://127.0.0.1:6878/ace/getstream?infohash=757a10d4371f6dad5f5ee9b3620c51cee08f0e87&pid=849
+#EXTINF:-1 group-title="AceStream | Other Foreign",Thai PBS 3
+http://127.0.0.1:6878/ace/getstream?infohash=9fd1284b70c69c116cc65691c84f63311eec5b27&pid=1162
