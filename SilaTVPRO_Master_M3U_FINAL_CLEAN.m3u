@@ -89062,3 +89062,5 @@ http://127.0.0.1:6878/ace/getstream?infohash=1be8e36666c5cbf5f48bdc347deec270c6d
 http://127.0.0.1:6878/ace/getstream?infohash=757a10d4371f6dad5f5ee9b3620c51cee08f0e87&pid=849
 #EXTINF:-1 group-title="AceStream | Other Foreign",Thai PBS 3
 http://127.0.0.1:6878/ace/getstream?infohash=9fd1284b70c69c116cc65691c84f63311eec5b27&pid=1162
+#EXTINF:-1 tvg-id="SAR TV" tvg-name="SAR TV" group-title="TEST",SAR TV
+https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
