@@ -88832,14 +88832,6 @@ http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&
 http://127.0.0.1:6878/ace/getstream?infohash=72f6ea47e32f2cd167ece4d36515d8314b5f0b12&pid=150
 #EXTINF:-1 tvg-name="Arena Sport 2" group-title="AceStream | Sports",Arena Sport 2
 http://127.0.0.1:6878/ace/getstream?infohash=2f05492fc97b6b93e09cd17ce69f8a7333ca6f8c&pid=151
-#EXTINF:-1 tvg-name="BeIN Sports 1 [BE]" group-title="AceStream | Sports",BeIN Sports 1 [BE]
-http://127.0.0.1:6878/ace/getstream?infohash=58e454d067b9e25e40f3c62b3430b55ef6fead09&pid=218
-#EXTINF:-1 tvg-name="BeIN Sports 2 [BE]" group-title="AceStream | Sports",BeIN Sports 2 [BE]
-http://127.0.0.1:6878/ace/getstream?infohash=fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac&pid=219
-#EXTINF:-1 tvg-name="BeIN Sports 3 [BE]" group-title="AceStream | Sports",BeIN Sports 3 [BE]
-http://127.0.0.1:6878/ace/getstream?infohash=519c2159e9228bfe2f94911dfa111b01d0a896e2&pid=220
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="AceStream | Sports",beIN SPORTS XTRA
-http://127.0.0.1:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685&pid=226
 #EXTINF:-1 tvg-name="BT Sport / ESPN [UK]" group-title="AceStream | Sports",BT Sport / ESPN [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915&pid=249
 #EXTINF:-1 tvg-name="BT Sport 1 [UK]" group-title="AceStream | Sports",BT Sport 1 [UK]
