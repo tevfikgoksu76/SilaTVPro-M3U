@@ -89064,31 +89064,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=757a10d4371f6dad5f5ee9b3620c51cee08
 http://127.0.0.1:6878/ace/getstream?infohash=9fd1284b70c69c116cc65691c84f63311eec5b27&pid=1162
 #EXTINF:-1 tvg-id="SAR TV" tvg-name="SAR TV" group-title="TEST",SAR TV
 https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Eurosport 1" group-title="🔴 CANLI 🏆 SPOR",Eurosport 1
-https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2" group-title="🔴 CANLI 🏆 SPOR",Eurosport 2
-https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-name="Flux" group-title="📺 CANLI TV | YENİ KANALLAR",Flux
-https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 tvg-name="Cine5" group-title="📺 CANLI TV | YENİ KANALLAR",Cine5
-https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Anadolu MTV" group-title="📺 CANLI TV | YENİ KANALLAR",Anadolu MTV
-https://cdn4.yayin.com.tr/anadolum/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TE TV" group-title="📺 CANLI TV | YENİ KANALLAR",TE TV
-https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FIX" group-title="📺 CANLI TV | YENİ KANALLAR",FIX
-https://yayin.venomlink.com/live/mystream/main_stream.m3u8
-#EXTINF:-1 tvg-name="Live TV" group-title="📺 CANLI TV | YENİ KANALLAR",Live TV
-https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="6 TV" group-title="📺 CANLI TV | YENİ KANALLAR",6 TV
-https://cdn4.yayin.com.tr/channel6tv/index.m3u8
-#EXTINF:-1 tvg-name="Metro Türk" group-title="📺 CANLI TV | YENİ KANALLAR",Metro Türk
-https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
-#EXTINF:-1 tvg-name="Kanal Plus" group-title="📺 CANLI TV | YENİ KANALLAR",Kanal Plus
-https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
-#EXTINF:-1 tvg-name="Simvol" group-title="📺 CANLI TV | YENİ KANALLAR",Simvol
-https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Türkmeneli" group-title="📺 CANLI TV | YENİ KANALLAR",Türkmeneli
-https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Resurrection Channel" group-title="📺 CANLI TV | YENİ KANALLAR",Resurrection Channel
-https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
